@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [iFood Delivery Trends](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+For this project I used Excel to analyze delivery foods trends from a company similar to DoorDash. 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
