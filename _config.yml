@@ -1,10 +1,8 @@
 title: Lexie Langella # your name (or website title) here
 logo: "/images/IMG_9638.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data-driven professional who loves solving problems <br><br>
-  
+  Data-driven professional who loves solving problems
   Healthcare and music. Cat mom. <br><br>
-  
   <a href="https://www.linkedin.com/in/lexie-langella/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
