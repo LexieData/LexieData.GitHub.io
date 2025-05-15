@@ -7,7 +7,7 @@
 ---
 
 #### [iFood Delivery Trends]([https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/])
-[<img src="iFood Header.png"/>](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
+[<img src="iFood Header.png?raw=true"/>](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
 For this project I used Excel to analyze delivery foods trends from a company similar to DoorDash. 
 
 ---
