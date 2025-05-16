@@ -20,9 +20,9 @@ From this I learned:
   - 4 schools met the passing threshold for math scores for the 4th grade
 
 ### Analysis
-Out of 1,862 schools, the schools shown below have the lowest graduation percentage. They all have lower than 20% graduation rate. <br>
+Out of 1,862 schools, the schools shown below have the lowest graduation percentage. They all have lower than 20% graduation rate.
 
-<img src="images/School %.png?raw=true"/> 
+<img src="images/School %.png?raw=true"/>
 
 The Curtis-Tufts High School is an alternative school that teaches special needs students. THey provide smaller class sizes and a more individualized education program. They have a 0% graduation rate since any graduating students receive a Medford High School diploma. <br>
 Below are the top 10 schools with 100% graduation rate:
