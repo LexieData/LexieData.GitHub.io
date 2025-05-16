@@ -1,7 +1,6 @@
 ## Massachusetts Education Analysis
 
-<img src="Massachusetts Education Overview.png?raw=true"/> <br>
-I used tableau to analyze and visualize data about the education system in Massachusetts. 
+<img src="Massachusetts Education Overview.png?raw=true"/>
 
 When I started public high school, the school was brand new. Only two grades, Freshmen and Sophomore. Everyone was figuring out the ins and outs of learning or teaching in this brand new school. Class sizes were smaller with not a lot of diversity. My experience was very different than the well established high schools that had history and traditions. The data set I analyzed for this project doesn't show how old each school is, but I learned other factors.
 
@@ -27,7 +26,8 @@ Out of 1,862 schools, the schools shown below have the lowest graduation percent
 
 The Curtis-Tufts High School is an alternative school that teaches special needs students. THey provide smaller class sizes and a more individualized education program. They have a 0% graduation rate since any graduating students receive a Medford High School diploma. <br>
 Below are the top 10 schools with 100% graduation rate:
-<img src="School Top 10.png?raw=true"/>
+
+<img src="images/School Top 10.png?raw=true"/>
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
