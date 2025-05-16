@@ -15,9 +15,9 @@ You can find the data set <a href="https://www.kaggle.com/datasets/ndalziel/mass
 Then I uploaded the data into Tableau in order to visualize the data. I created a bar chart, scatter plot, and line graph which can be found at my dashboard <a href="https://public.tableau.com/app/profile/lexie.langella/viz/TableauMASchools/Dashboard1">here</a>
 
 From this I learned:
-  -The higher the class size, the more likely those students graduate and attend college
-  *Only 10 schools acheived 100% graduation rate
-  +4 schools met the passing threshold for math scores for the 4th grade
+  - The higher the class size, the more likely those students graduate and attend college
+  - Only 10 schools acheived 100% graduation rate
+  - 4 schools met the passing threshold for math scores for the 4th grade
 
 ### Analysis
 Out of 1,862 schools, the schools shown below have the lowest graduation percentage. They all have lower than 20% graduation rate. 
