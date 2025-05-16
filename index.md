@@ -4,14 +4,11 @@
 
 ### Learn About My Projects
 
----
-
 #### [iFood Delivery Trends](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
 [<img src="images/iFood Header.png?raw=true"/>](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
 For this project I used Excel to analyze delivery foods trends from a company similar to DoorDash. 
 
 ---
-
 #### [Linked File Project](SQL.docx)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
