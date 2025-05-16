@@ -4,10 +4,10 @@ I used tableau to analyze and visualize data about the education system in Massa
 
 When I started public high school, the school was brand new. Only two grades, Freshmen and Sophomore. Everyone was figuring out the ins and outs of learning or teaching in this brand new school. Class sizes were smaller with not a lot of diversity. My experience was very different than the well established high schools that had history and traditions. The data set I analyzed for this project doesn't show how old each school is, but I learned other factors.
 
-For this project, the goal was to answer three questions for the Massachusetts superintendent:
-  -How does class size effect college admission?
-  *Which schools are struggling the most?
-  +What are the top math schools in the state?
+For this project, the goal was to answer three questions for the Massachusetts superintendent: <br>
+  1. How does class size effect college admission? <br>
+  2. Which schools are struggling the most?<br>
+  3. What are the top math schools in the state?
 
 ### The Data
 This data set comes from the Massachusetts Department of Education and was last updated in 2017. I gleaned insights from 1,862 rows of data which translates to 1,862 schools and cleaned the data by removing any duplicates. 
