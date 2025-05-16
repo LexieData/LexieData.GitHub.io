@@ -1,6 +1,6 @@
 ## Massachusetts Education Analysis
-<Massachusetts Education Overview.png>
-**Project description:** I used tableau to analyze and visualize data about the education system in Massachusetts. 
+<img src="Massachusetts Education Overview.png?raw=true"/>
+I used tableau to analyze and visualize data about the education system in Massachusetts. 
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
