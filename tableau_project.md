@@ -15,25 +15,33 @@ You can find the data set <a href="https://www.kaggle.com/datasets/ndalziel/mass
 Then I uploaded the data into Tableau in order to visualize the data. I created a bar chart, scatter plot, and line graph which can be found at my dashboard <a href="https://public.tableau.com/app/profile/lexie.langella/viz/TableauMASchools/Dashboard1">here</a>
 
 From this I learned:
-  - Only 10 schools acheived 100% graduation rate
+  - Only **10** schools acheived **100%** graduation rate
   - The higher the class size, the more likely those students graduate and attend college
-  - 4 schools met the passing threshold for math scores for the 4th grade
+  - **4** schools met the passing threshold for math scores for the 4th grade
 
 ### Analysis
-Out of 1,862 schools, the schools shown below have the lowest graduation percentage. They all have lower than 20% graduation rate.
-
+## Graduation Percentage
+Out of **1,862** schools, the schools shown below have the lowest graduation percentage. They all have lower than **20%** graduation rate.
 <img src="images/School %.png?raw=true"/>
 
 The Curtis-Tufts High School is an alternative school that teaches special needs students. They provide smaller class sizes and a more individualized education program. They have a 0% graduation rate since any graduating students receive a Medford High School diploma. <br>
-Below are the top 10 schools with 100% graduation rate.
+Below are the top **10** schools with **100%** graduation rate.
 
 <img src="images/School Top 10.png?raw=true"/>
 
+## Class Size and College Attendance
 The scatter plot shows the percent of students who attended college based on class size. The majority of schools had between 10 and 20 students in their class. There are outliers in both directions where some schools had fewer than 10 in class some had more than 20. The trend line indicates that the more students you have in class, the more likely it is that students will graduate and go to college.
 
 <img src="images/School Class Size.png?raw=true"/>
 
 The darker the dots are on this scatter plot, the more economically disadvantaged the students are in that class. There are more darker dots below the trend line and especially with lower class size numbers. If class size is a factor in a student not going to college, then adding more students in a class could give more opportunties for students to be motivated by their peers to go to college if they so choose.
 
-Math scores are an indication on a school's success rate. By looking at math scores from the 4th grade, 
+## 4th Grade Math
+The Secretary of Education believes math scores are an indication of a school's success rate. So by looking at math scores from the 4th grade, we can see which schools' teaching methods are successful and which need more work.
+
+<img src="images/School 4th Grade.png?raw=true"/>
+
+The passing threshold percentage of averaged math scores is 50% so as this line graph shows, there were only 4 schools that met the criteria. It would be interesting to see which of these 4 elementary schools feed into middle schools and eventually high schools. Do these elementary schools with the higher math scores have the same students who eventually attend the high schools that have the highest graduation percentage?
+
+## Takeaways
 
