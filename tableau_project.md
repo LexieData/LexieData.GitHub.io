@@ -49,5 +49,6 @@ The passing threshold percentage of averaged math scores is 50% so as this line 
 
 From this data, I answered three questions: which schools are struggling the most, how does class size effect college admission, and what are the top math schools in the state. My Tableau dashboard showed the names of the 10 schools that received a 100% graduation rate and those that had the lowest graduation rate, the higher the class size the more likely a student is to graduate, and a list of the 4 elementary schools that met the passing threshold for 4th grade math. 
 
-This project was my first to use data in Tableau and create a dashboard. If you have any questions or would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>.
+This project was my first to use data in Tableau and create a dashboard. If you would like to hear me summarize this project, you can find my Loom video  <a href="https://www.loom.com/share/6573c3b7baf64ee2a45619b407ed0c16?sid=f42bb273-2565-4327-b59a-63999b5964fc">here</a>.
+If you have any questions or would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>.
 
