@@ -26,6 +26,7 @@ Out of **1,862** schools, the schools shown below have the lowest graduation per
 <img src="images/School Low Percent.png?raw=true"/>
 
 There is one school that is an outlier. The Curtis-Tufts High School is an alternative school that teaches special needs students. They provide smaller class sizes and a more individualized education program. They have a 0% graduation rate since any graduating students receive a Medford High School diploma. <br>
+
 Below are the top **10** schools with **100%** graduation rate.
 
 <img src="images/School Top 10.png?raw=true"/>
