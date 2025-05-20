@@ -4,7 +4,7 @@
 ## Introduction
 This is my first project using SQL or Structered Query Language. I used SQL to analyze data from the IDA or International Development Association. IDA is a part of the World Bank Group that provides concessional financing, grants, and policy advice to the poorest countries in the world. 
 
-There were 6 queries I answered:
+There were **6** queries I answered:
   1. Show all transactions from Nicaragua.
   2. How many total transactions?
   3. How many total transactions per country?
@@ -25,13 +25,15 @@ My first query was to find all transactions from  Nicaragua. I did this by enter
 <img src="images/SQL Nicaragua.png?raw=true"/>
 
 Next I found out how many total transactions their were by entering this query:
-<img src="images/SQL Nicaragua.png?raw=true"/>
+<img src="images/SQL All.png?raw=true"/>
+There were a total of **1,048,575** transactions.
 
 Then I found how many transactions each country had by this query:
 <img src="images/SQL Country.png?raw=true"/>
-which yeilded 136 countries with their transaction numbers listed
+which yeilded **136** countries with their transaction numbers listed
 
-
+The max owed to the IDA was found using this query:
+<img src="images/SQL Country.png?raw=true"/>
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
