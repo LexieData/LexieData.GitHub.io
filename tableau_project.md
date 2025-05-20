@@ -1,4 +1,5 @@
 <img src="images/Massachusetts Education Overview.png"/>
+
 # Class is in Session
 
 When I started public high school, the school was brand new. Only two grades, Freshmen and Sophomore. Everyone was discovering the ins and outs of learning or teaching in this brand new school. Class sizes were smaller with not a lot of diversity. My experience was very different than the well established high schools that had history and traditions. The data set I analyzed for this project doesn't show how old each school is, but I learned other characteristics.
