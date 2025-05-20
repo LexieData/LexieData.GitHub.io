@@ -33,21 +33,12 @@ Then I found how many transactions each country had by this query:
 which yeilded **136** countries with their transaction numbers listed
 
 The max owed to the IDA was found using this query:
-<img src="images/SQL Country.png?raw=true"/>
+<img src="images/SQL MAX.png?raw=true"/>
+**$793,256,127.60** was owed to the IDA at this time. 
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
-### 1. You can have sections and text.
 
-Just like this. And you can even add internal coding blocks
 
-```python
-print('this is the python code I used to solve this problem')
-```
-
-### 2. You can add any images you'd like. 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
