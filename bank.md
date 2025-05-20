@@ -1,3 +1,5 @@
+
+
 # A Rich Topic You Can Truly Bank On
 
 ## Introduction
@@ -11,11 +13,10 @@ There were 6 queries I answered:
   5. Which was the most recent pay?
   6. Who has the most loans?
 
-
 ---
 
 ## The Data
-To practice SQL, I used 
+To practice SQL, I used <a href="CSVFiddle.io">CSVFiddle.io</a> which is a website used to practice SQL queries. 
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
