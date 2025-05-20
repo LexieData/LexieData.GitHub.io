@@ -18,7 +18,7 @@ What are the top math schools in the state?
 
 ---
 #### [The Finance Project](bank.md)
-<img src="images/The Finance Project.png?raw=true"/>
+[<img src="images/The Finance Project.png?raw=true"/>](bank.md)
 For this project, I use SQL to analyze data from the International Development Assocation (IDA). 
 
 ---
