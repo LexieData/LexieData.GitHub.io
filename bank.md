@@ -24,8 +24,14 @@ In Excel I cleaned the data for any duplicates and then I used <a href="CSVFiddl
 My first query was to find all transactions from  Nicaragua. I did this by entering the following:
 <img src="images/SQL Nicaragua.png?raw=true"/>
 
-Next I found how many transactions each country had by this query:
+Next I found out how many total transactions their were by entering this query:
 <img src="images/SQL Nicaragua.png?raw=true"/>
+
+Then I found how many transactions each country had by this query:
+<img src="images/SQL Country.png?raw=true"/>
+which yeilded 136 countries with their transaction numbers listed
+
+
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
