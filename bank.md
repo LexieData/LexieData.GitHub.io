@@ -22,7 +22,10 @@ In Excel I cleaned the data for any duplicates and then I used <a href="CSVFiddl
 ---
 ## Analysis: The Vault
 My first query was to find all transactions from  Nicaragua. I did this by entering the following:
-<img src="images/?raw=true"/>
+<img src="images/SQL Nicaragua.png?raw=true"/>
+
+Next I found how many transactions each country had by this query:
+<img src="images/SQL Nicaragua.png?raw=true"/>
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
