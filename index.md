@@ -17,7 +17,7 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-#### [The Finance Project](bank.md)
+#### [The Bank Project](bank.md)
 [<img src="images/The World Bank Project.png?raw=true"/>](bank.md)
 For this project, I use SQL to analyze data from the International Development Assocation (IDA). 
 
