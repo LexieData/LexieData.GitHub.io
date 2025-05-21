@@ -22,14 +22,16 @@ In Excel I cleaned the data for any duplicates and then I used <a href="CSVFiddl
 
 ---
 ## Analysis: The Vault
-My first query was to find all transactions from  Nicaragua. I did this by entering the following:
-<img src="images/SQL Nicaragua.png?raw=true"/>
-From the first few rows that were returned you can see the status of their credit in the righthand column below
-<img src="images/SQL Nicaragua.png?raw=true"/>
+My first query was to find all transactions from  **Nicaragua**. I did this by entering the following:
+<img src="images/SQL Nicaragua.png?raw=true"/> <br>
+From the first few rows that were returned you can also see the status of their credit in the righthand column below:
+<img src="images/SQL_Credit.png?raw=true"/>
 
 Next I found out how many total transactions their were by entering this query:
 <img src="images/SQL All.png?raw=true"/> <br>
 There were a total of **1,048,575** transactions.
+By using the GROUP BY function, you can see the first 12 countries that populated in no particular order:
+<img src="images/SQL_Credit.png?raw=true"/>
 
 Then I found how many transactions each country had by this query:
 <img src="images/SQL Country.png?raw=true"/> <br>
