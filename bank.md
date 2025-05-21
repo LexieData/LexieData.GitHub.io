@@ -24,17 +24,19 @@ In Excel I cleaned the data for any duplicates and then I used <a href="CSVFiddl
 ## Analysis: The Vault
 My first query was to find all transactions from  Nicaragua. I did this by entering the following:
 <img src="images/SQL Nicaragua.png?raw=true"/>
+From the first few rows that were returned you can see the status of their credit in the righthand column below
+<img src="images/SQL Nicaragua.png?raw=true"/>
 
 Next I found out how many total transactions their were by entering this query:
-<img src="images/SQL All.png?raw=true"/>
+<img src="images/SQL All.png?raw=true"/> <br>
 There were a total of **1,048,575** transactions.
 
 Then I found how many transactions each country had by this query:
-<img src="images/SQL Country.png?raw=true"/>
+<img src="images/SQL Country.png?raw=true"/> <br>
 which yeilded **136** countries with their transaction numbers listed
 
 The max owed to the IDA was found using this query:
-<img src="images/SQL MAX.png?raw=true"/>
+<img src="images/SQL MAX.png?raw=true"/> <br> 
 **$793,256,127.60** was owed to the IDA at this time. 
 
 
