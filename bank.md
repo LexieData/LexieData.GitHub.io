@@ -5,13 +5,12 @@
 ## Introduction
 This is my first project using SQL or Structered Query Language. I used SQL to analyze data from the IDA or International Development Association. IDA is a part of the World Bank Group that provides concessional financing, grants, and policy advice to the poorest countries in the world. 
 
-There were **6** queries I answered:
+There were **5** queries I answered:
   1. Show all transactions from Nicaragua.
   2. How many total transactions?
   3. How many total transactions per country?
   4. What is the max owed to the IDA?
-  5. Which was the most recent pay?
-  6. Who has the most loans?
+  5. Who has the most loans?
 
 ---
 ## The Data
@@ -35,15 +34,15 @@ Then I found how many transactions each country had by this query:
 <img src="images/SQL Country.png?raw=true"/> <br>
 Which yeilded **136** countries with their transaction numbers listed. <br>
 By using the **GROUP BY** and **ORDER BY** function, you can see the first **12** countries that populated in alphabetical order:
-<img src="images/SQL Country Breakdown.png?raw=true"/>
+<img src="images/SQL Country Breakdown.png?raw=true"/> <br>
 
 The max owed to the IDA was found using this simple query:
 <img src="images/SQL MAX.png?raw=true"/> <br> 
-**$793,256,127.60** was owed to the IDA at this time. Wow!
-
-
-By using this query below I found that India has the most loans, oweing 793256127.6 to IDA. I had to LIMIT to 12 since the data set is too large for CSVFiddle.
-<img src="images/SQL MAX.png?raw=true"/> <br> 
+**$793,256,127.60** was owed to the IDA at this time. 
+To find out which country owed this much to IDA, I did this query:
+<img src="images/SQL Due to IDA.png?raw=true"/> <br> 
+ I had to LIMIT to 12 since the data set is too large for CSVFiddle.
 This loan is for the SSA III project or the "Third Elementary Education Project." The aim of this project is to improve the quality of education for elementary students in India.
 
+The country with the most loans owed was also India 
 
