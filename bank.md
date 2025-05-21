@@ -14,7 +14,7 @@ There were **4** queries I answered:
 ---
 ## The Data
 
-The data comes from the World Bank Group website and updates their data quarterly. For this project I was assigned a snippet of this data to query from the year 2022. The live data can be found on this <a href="https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976">website</a>
+The data comes from the World Bank Group website and they update their data quarterly. For this project I was assigned a snippet of this data to query from the year 2022. The live data can be found on this <a href="https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976">website</a>
 
 In Excel I cleaned the data for any duplicates and then I used <a href="CSVFiddle.io">CSVFiddle.io</a> to practice these SQL queries. 
 
