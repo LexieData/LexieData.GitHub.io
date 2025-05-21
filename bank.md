@@ -41,7 +41,7 @@ The max owed to the IDA was found using this simple query:
 To find out which country owed this much to IDA, I did this query:
 <img src="images/SQL Due to IDA.png?raw=true"/> <br> 
  I had to **LIMIT** to 12 since the data set is too large for CSVFiddle.
-This loan is for the SSA III project or the **"Third Elementary Education Project."** The aim of this project is to improve the quality of education for elementary students in India.
+India owed the most money for a loan. This loan is for the SSA III project or the **"Third Elementary Education Project."** The aim of this project is to improve the quality of education for elementary students in India.
 
 ## Final Statement
 By using SQL for this snapshot of IDA data, I learned:
