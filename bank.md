@@ -30,16 +30,16 @@ From the first few rows that were returned you can also see the status of their 
 Next I found out how many total transactions their were by entering this query:
 <img src="images/SQL All.png?raw=true"/> <br>
 There were a total of **1,048,575** transactions.
-By using the GROUP BY function, you can see the first 12 countries that populated in no particular order:
-<img src="images/SQL_Credit.png?raw=true"/>
 
 Then I found how many transactions each country had by this query:
 <img src="images/SQL Country.png?raw=true"/> <br>
 which yeilded **136** countries with their transaction numbers listed
+By using the **GROUP BY** and **ORDER BY** function, you can see the first **12** countries that populated in alphabetical order:
+<img src="images/SQL Country Breakdown.png?raw=true"/>
 
 The max owed to the IDA was found using this query:
 <img src="images/SQL MAX.png?raw=true"/> <br> 
-**$793,256,127.60** was owed to the IDA at this time. 
+**$793,256,127.60** was owed to the IDA at this time. Wow!
 
 
 
