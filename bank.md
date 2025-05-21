@@ -1,4 +1,4 @@
-<img src="images/The Finance Project.png?raw=true"/>
+<img src="images/The World Bank Project.png?raw=true"/>
 
 # A Rich Topic You Can Truly Bank On
 
