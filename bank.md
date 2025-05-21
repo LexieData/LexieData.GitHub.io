@@ -10,7 +10,6 @@ There were **5** queries I answered:
   2. How many total transactions?
   3. How many total transactions per country?
   4. What is the max owed to the IDA?
-  5. Who has the most loans?
 
 ---
 ## The Data
@@ -44,5 +43,13 @@ To find out which country owed this much to IDA, I did this query:
  I had to LIMIT to 12 since the data set is too large for CSVFiddle.
 This loan is for the SSA III project or the "Third Elementary Education Project." The aim of this project is to improve the quality of education for elementary students in India.
 
-The country with the most loans owed was also India 
+## Final Statement
+By using SQL for this snapshot of IDA data, I learned:
+  1. How to use SQL functions i.e. **SELECT**ing all transactions for Nicaragua.
+  2. There were a total of **1,048,575** transactions.
+  3. By using **GROUP BY** and **ORDER BY** I could see the **136** countries and their transactions.
+  4. **India** had the largest loan owed to IDA and the loan was for the Third Elementary Education Project.
+
+This project was a beginner exercise to practice SQL queries. With this data I was also taught aggregations such as MAX, MIN, SUM, AVG, and COUNT. I learned the WHERE BY clause and its AND, OR, NOT operators. I am excited to continue learning SQL with other projects.
+
 
