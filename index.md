@@ -22,8 +22,9 @@ What are the top math schools in the state?
 For this project, I use SQL to analyze data from the International Development Assocation (IDA). 
 
 ---
-#### [Healthcare Analysis] ()
-Coming soon
+#### [Healthcare Analysis] (https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
+[<img src="images/iFood Header.png?raw=true"/>](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
+This data story is about diabetes patients in the hospital.
 
 #### [The Sports Project] ()
 Coming soon
