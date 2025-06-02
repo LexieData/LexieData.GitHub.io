@@ -1,10 +1,11 @@
-## The Sports Project
+## Points, Assists, Rebounds, Oh My!
 
 ### Introduction
+Let's just say, I am not a sports fan. The closest I got to sports was playing in marching band and basketball pep bands. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
 
-Use this template to create a portfolio quicky. 
 
 ### The Data
+The data from this project comes from a webiste called "Basketball Reference." On there, they have the NBA plays stats. 
 
 ### Analysis
 
