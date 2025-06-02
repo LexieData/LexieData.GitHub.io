@@ -12,7 +12,7 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a>. called "Basketball Reference." On there, they have the NBA players' stats. The data I used comes from 2022. This data contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
+The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have the NBA players' stats. The data I used comes from 2022. This data contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
 
 ## Analysis
 
@@ -24,15 +24,21 @@ I answered 4 questions related to professional basketball:
 
 ### Question 1
 The first question asks: what position is the most efficient at shooting 3-pointers for every team? I showed this by creating a heat map.
-<img src="images/Tableau Heat Map.png"/>
+<img src="images/Tableau Heat Map.png"/> <br>
 This heat map shows the average percentage of 3 pointers for each team and each player's position on that team. The darker the color, the higher the percentage. Center position has higher percentages with an outlier of "0" for UTA. 
 
 ### Question 2
 How did different players/positions do on total points, total assists, & total rebounds? I answered this by creating a bubble plot to show the three different criteria: <br>
 <img src="images/Tableau Bubble Chart.png"/> <br>
-Total Assists is on the y axis, Total Points is on the x axis, and Total Rebounds are indicated by the size of the "bubble" for each plot point. Also, here is what the colors represent: Blue represents center position, orange is power forward, green is point guard, brown is small forward, and purple is shooting guard.
+Total Assists is on the y axis, Total Points is on the x axis, and Total Rebounds are indicated by the size of the "bubble" for each plot point. Also, here is what the colors represent: Blue represents Center position, orange is Power Forward, green is Point Guard, brown is Small Forward, and purple is Shooting Guard.
 
 This bubble plot shows the more assists made, the more points scored. Players like jsdf Also, more point guards 
+
+### Question 3
+Question three wanted me to show the total points scored by each team and that also shows how players on that team scored. I answered this by using a stacked bar chart:
+<img src="images/Tableau Stacked Bar Chart.png"/> <br>
+
+
 
 
 ### Markdown
