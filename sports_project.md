@@ -1,4 +1,5 @@
 <img src="images/"/>
+
 # Points, Assists, Rebounds, Oh My!
 
 ## Introduction
@@ -25,7 +26,7 @@ I answered 4 questions related to professional basketball:
 ### Question 1
 The first question asks: what position is the most efficient at shooting 3-pointers for every team? I showed this by creating a heat map.
 <img src="images/Tableau Heat Map.png"/> <br>
-This heat map shows the average percentage of 3 pointers for each team and each player's position on that team. The darker the color, the higher the percentage. Center position has higher percentages with an outlier of "0" for UTA. 
+This heat map shows the average percentage of 3 pointers for each team and each player's position on that team. The darker the color, the higher the percentage. I couldn't show all of the data here but I concluded that Center position has higher percentages with an outlier of "0" for UTA. 
 
 ### Question 2
 How did different players/positions do on total points, total assists, & total rebounds? I answered this by creating a bubble plot to show the three different criteria: <br>
