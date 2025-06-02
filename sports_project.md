@@ -1,3 +1,4 @@
+<img src="images/"/>
 # Points, Assists, Rebounds, Oh My!
 
 ## Introduction
@@ -21,7 +22,7 @@ I answered 3 questions related to professional basketball:
 
 Question 1
 The question is: what position is the most efficient at shooting 3-pointers for every team? I showed this by creating a heat map.
-()
+<img src="images/Massachusetts Education Overview.png"/>
 This heat map shows the average percentage of 3 pointers for each team and each player's position on that team. The darker the color, the higher the percentage. Center position has higher percentages with an outlier of "0" for UTA. 
 
 
