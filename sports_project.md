@@ -3,7 +3,7 @@
 # Points, Assists, Rebounds, Oh My!
 
 ## Introduction
-Let's just say, I am not a sports fan. The closest I've gotten to sports was playing in marching bands and basketball pep bands. So I had to brush up on my sports terminology. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
+Let's just say, I am not a sports fan. The closest I've gotten to sports was playing in marching bands in football games and playing in basketball pep bands. So I had to brush up on my sports terminology. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
 
 What I learned from this project was:
   1. **Center** position is the most effective at making **3 pointers**.
@@ -13,7 +13,7 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have the NBA players' stats. The data I used comes from 2022. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
+The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have NBA player stats. The data I used comes from 2022. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
 
 ## Analysis
 
