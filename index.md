@@ -26,21 +26,18 @@ For this project, I use SQL to analyze data from the International Development A
 [<img src="images/Healthcare Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
 This data story analyzes data from diabetes patients in the hospital.
 
-#### [The Sports Project] ()
-Coming soon
+---
+#### [The Sports Project] (sports_project.md)
+[<img src="images/Sports.png?raw=true"/>](sports_project.md)
+For this project, I analyzed NBA data and created more visualizations in Tableau.
 
+---
 #### [The Engineering Project] ()
 Coming soon
 
+---
 #### [The HR Project] ()
 Coming soon
-
----
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
----
 
 
 
