@@ -14,7 +14,7 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have NBA player stats. The data I used comes from **2022**. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
+The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have NBA player stats. The data I used comes from **2022**. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage. I used Tableau to create visualizations using this data.
 
 ## Analysis
 
@@ -40,7 +40,7 @@ This bubble plot indicates that the more assists made, the more points scored. T
 Question three wanted me to show the total points scored by each team and how much each player on that team scored. I answered this by using a stacked bar chart:
 <img src="images/Tableau Stacked Bar Chart.png"/> <br>
 
-In this chart you can see each team name on the y axis representing each bar as a whole and the different colored segments of each bar represent a player and how much they have scored in that season. The top 5 teams who scored the most that season are the Minnesota Timberwolves or "MIN", the Memphis Grizzlies or "MEM", the Milwaukee Bucks or "MIL", the Charlotte Hornets or "CHO", and the Phoenix Suns or "PHO". The highest scoring player on those teams are Karl-Anthony Towns from MIN, Ja Morant from MEM, Giannis Antetokounmpo from MIL, Miles Bridges from CHO, and Devin Booker from PHO.  
+In this chart you can see each team name on the y axis representing each bar as a whole and the different colored segments of each bar represent a player and how much they have scored in that season. The top 5 teams who scored the most that season are the Minnesota Timberwolves or "MIN", the Memphis Grizzlies or "MEM", the Milwaukee Bucks or "MIL", the Charlotte Hornets or "CHO", and the Phoenix Suns or "PHO". The highest scoring player on those teams are Karl-Anthony Towns from MIN, Ja Morant from MEM, Giannis Antetokounmpo from MIL, Miles Bridges from CHO, and Devin Booker from PHO. In my Tableau Public <a href="https://public.tableau.com/app/profile/lexie.langella/viz/BasketballAnalysis62025/BasketballAnalysisfor062025">profile</a>, you can hover over each segment and see how many points each player scored.
 
 ### Question 4
 The last question asks, "Which players had the most assists in every position?" I used a treemap to answer this question:
@@ -49,7 +49,7 @@ The last question asks, "Which players had the most assists in every position?" 
 Each color represents a position on the team with the same colors used as the bubble plot. With the positions clearly divided by color and rectangles and assists labeled for each player, you can see that Point Guard had the most number of assists that season.
 
 ## Conclusion
-Am I a sports fan now? Nah. Did I learn a little more about basketball? Yes. And I appreciated the opportunity to learn more Tableau skills. If you would like to connect, please reach out on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>
+Am I a sports fan now? Nah. Did I learn a little more about basketball? Yes. And I appreciated the opportunity to learn more Tableau skills. You can view my Tableau story on my Tableau Public<a href="https://public.tableau.com/app/profile/lexie.langella/viz/BasketballAnalysis62025/BasketballAnalysisfor062025">profile</a> to interact will all of the visualization I included in this data story. If you would like to connect, please reach out on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>
 
 
 
