@@ -27,7 +27,7 @@ For this project, I use SQL to analyze data from the International Development A
 This data story analyzes data from diabetes patients in the hospital.
 
 ---
-#### [The Sports Project] (sports_project.md)
+#### [The Sports Project](sports_project.md)
 [<img src="images/Sports.png?raw=true"/>](sports_project.md)
 For this project, I analyzed NBA data and created more visualizations in Tableau.
 
