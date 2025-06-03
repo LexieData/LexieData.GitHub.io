@@ -14,11 +14,11 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have NBA player stats. The data I used comes from 2022. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
+The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have NBA player stats. The data I used comes from **2022**. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage.
 
 ## Analysis
 
-I answered 4 questions related to professional basketball:
+I answered **4** questions related to professional basketball:
   1. What position is the most efficient at shooting 3-pointers for every team?
   2. How did different players/positions do on total points, total assists, & total rebounds?
   3. Show the total points scored by each team and how much each player on that team scored.
