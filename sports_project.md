@@ -1,4 +1,4 @@
-<img src="images/"/>
+<img src="images/Basketball Analysis.png"/>
 
 # Points, Assists, Rebounds, Oh My!
 
