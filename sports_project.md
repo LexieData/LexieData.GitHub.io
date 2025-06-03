@@ -3,7 +3,7 @@
 # Points, Assists, Rebounds, Oh My!
 
 ## Introduction
-Let's just say, I am not a sports fan. 
+Let's just say, I am not a sports fan. <br>
 The closest I've gotten to sports was playing in marching bands in football games and playing in basketball pep bands. So I had to brush up on my sports terminology. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
 
 What I learned from this project was:
@@ -49,7 +49,7 @@ The last question asks, "Which players had the most assists in every position?" 
 Each color represents a position on the team with the same colors used as the bubble plot. With the positions clearly divided by color and rectangles and assists labeled for each player, you can see that Point Guard had the most number of assists that season.
 
 ## Conclusion
-Am I a sports fan now? No. Did I learn a little more about basketball? Yes. And I appreciated the opportunity to learn more Tableau skills. If you would like to connect, please reach out on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>
+Am I a sports fan now? Nah. Did I learn a little more about basketball? Yes. And I appreciated the opportunity to learn more Tableau skills. If you would like to connect, please reach out on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>
 
 
 
