@@ -3,7 +3,8 @@
 # Points, Assists, Rebounds, Oh My!
 
 ## Introduction
-Let's just say, I am not a sports fan. The closest I've gotten to sports was playing in marching bands in football games and playing in basketball pep bands. So I had to brush up on my sports terminology. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
+Let's just say, I am not a sports fan. 
+The closest I've gotten to sports was playing in marching bands in football games and playing in basketball pep bands. So I had to brush up on my sports terminology. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
 
 What I learned from this project was:
   1. **Center** position is the most effective at making **3 pointers**.
