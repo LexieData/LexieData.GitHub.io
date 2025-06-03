@@ -49,7 +49,9 @@ The last question asks, "Which players had the most assists in every position?" 
 Each color represents a position on the team with the same colors used as the bubble plot. With the positions clearly divided by color and rectangles and assists labeled for each player, you can see that Point Guard had the most number of assists that season.
 
 ## Conclusion
-Am I a sports fan now? Nah. Did I learn a little more about basketball? Yes. And I appreciated the opportunity to learn more Tableau skills. You can view my Tableau story on my Tableau Public<a href="https://public.tableau.com/app/profile/lexie.langella/viz/BasketballAnalysis62025/BasketballAnalysisfor062025">profile</a> to interact will all of the visualization I included in this data story. If you would like to connect, please reach out on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>
+Am I a sports fan now? Nah. <br>
+Did I learn a little more about basketball? Yes. <br>
+And I appreciated the opportunity to learn more Tableau skills. You can view my Tableau story on my Tableau Public <a href="https://public.tableau.com/app/profile/lexie.langella/viz/BasketballAnalysis62025/BasketballAnalysisfor062025">profile</a> to interact will all of the visualizations I included in this data story. If you would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>! 
 
 
 
