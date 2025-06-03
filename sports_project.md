@@ -5,7 +5,7 @@
 ## Introduction
 Let's just say, I am not a sports fan. <br>
 The closest I've gotten to sports was playing in marching bands at football games and playing in basketball pep bands. So I had to brush up on my sports terminology. In order to practice more Tableau skills, I was assigned a sports project, specifically about basketball.
-
+<img src="images/Basketball Analysis.png"/>
 What I learned from this project was:
   1. **Center** position is the most effective at making **3 pointers**.
   2. The more **assists**, the more **points scored**. Center has made more **rebounds**.
