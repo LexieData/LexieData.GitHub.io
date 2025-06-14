@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [iFood Delivery Trends](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
-[<img src="images/iFood Header.png?raw=true"/>](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
-For this project I used Excel to analyze delivery foods trends from a company similar to DoorDash. 
+#### [Healthcare Analysis](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
+[<img src="images/Healthcare Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
+This data story analyzes data from diabetes patients in the hospital.
 
 ---
 #### [Education Project](tableau_project.md)
@@ -22,9 +22,9 @@ What are the top math schools in the state?
 For this project, I use SQL to analyze data from the International Development Assocation (IDA). 
 
 ---
-#### [Healthcare Analysis](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
-[<img src="images/Healthcare Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
-This data story analyzes data from diabetes patients in the hospital.
+#### [iFood Delivery Trends](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
+[<img src="images/iFood Header.png?raw=true"/>](https://www.linkedin.com/pulse/unpacking-delivery-food-trends-insights-from-ifood-lexie-ewaze/)
+For this project I used Excel to analyze delivery foods trends from a company similar to DoorDash. 
 
 ---
 #### [The Sports Project](sports_project.md)
