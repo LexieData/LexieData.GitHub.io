@@ -62,7 +62,9 @@ All the numbers are not close to one (except where the same variables intersect)
 
 ### 4th Prompt
 The boss wants to see how the % Iron Concentrate changes throughout the day, also on June 1st, 2017. I created a line graph to show the relationship of every point throughout the day when samples were taken:
-<img src="images/Python Seaborn1.png?raw=true"/>
-<img src="images/Python Seaborn1.png?raw=true"/>
-<img src="images/Python Seaborn1.png?raw=true"/>
-<img src="images/Python Seaborn1.png?raw=true"/>
+<img src="images/Python Line Graph1.png?raw=true"/>
+<img src="images/Python Line Graph2.png?raw=true"/>
+<img src="images/Python Line Graph3.png?raw=true"/>
+<img src="images/Python Line Graph4.png?raw=true"/>
+
+
