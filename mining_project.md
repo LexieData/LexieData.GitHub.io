@@ -19,7 +19,7 @@ When downloading the mining data for this project, there were commas where decim
 df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")
 ```
 
-Also part of the data cleaning process involved making sure all the variables were correct. The date column was defined as a string column so I changed it to a date/time column by using this code: 
+Also part of the data cleaning process involved making sure all the variables were correct. The date column was defined as a string column so I changed it to a date/time column by using this code using Pandas: 
 ```python
 df['date'] = pd.to_datetime(df['date'])
 ```
@@ -61,9 +61,16 @@ As you can see, there is no discernable linear trend or patterns. I confirmed th
 All the numbers are not close to 1 (except where the same variables intersect) or -1 so these numbers also do not show a relationship to each other.
 
 ### 4th Prompt
-The boss wants to see how the % Iron Concentrate and the other variables change throughout June 1st, 2017. I created a line graph in Seaborn to show the relationship of every point throughout the day when samples were taken:
+The boss wants to see how the % Iron Concentrate and the other variables change throughout June 1st, 2017. I created a line graph in Seaborn to show the relationship of every pointfor "% Iron Concentrate" throughout the day when samples were taken:
 ```python
 sns.lineplot(x='date', y='% Iron Concentrate', data=df_june)
+```
+Then I created line graphs for the rest of the variables using a "for loop" in Matplotlib so I could write one loop that creates multiple graphs:
+```python
+for i in important_cols:
+    sns.lineplot(x='date', y=i, data=df_june)
+    import matplotlib.pyplot as plt
+    plt.show()
 ```
 <img src="images/Python Line Graph1.png?raw=true"/>
 <img src="images/Python Line Graph2.png?raw=true"/>
@@ -71,4 +78,4 @@ sns.lineplot(x='date', y='% Iron Concentrate', data=df_june)
 <img src="images/Python Line Graph4.png?raw=true"/>
 
 ## Conclusion 
-In this guided engineering project, 
+In this guided engineering project, I learned how to code in Python, how to use/download libraries in Python such as Pandas, Seaborn, and Matplotlib, and how to analyze mining data. Please reach out to me 
