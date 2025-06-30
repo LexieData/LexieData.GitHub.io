@@ -1,6 +1,6 @@
 <img src="images/Metals_R_Us_Title.png?raw=true"/>
 
-# Metals 'R' Us
+# Metals 'R' Us: A Mining Analysis Using Python
 
 ## Introduction
 Metals 'R' Us (not a metal toy store as the name might suggest) is a Canadian flotation plant that extracts impurities (silica) from iron ore concentrate. The goal is to yeild clean iron that they can sell. This is part of the mining process for manufacturing plants. 
@@ -78,4 +78,4 @@ for i in important_cols:
 <img src="images/Python Line Graph4.png?raw=true"/>
 
 ## Conclusion 
-In this guided engineering project, I learned how to code in Python, how to use/download libraries in Python such as Pandas, Seaborn, and Matplotlib, and how to analyze mining data. Please reach out to me 
+In this guided engineering project, I learned how to code in Python, how to use/download libraries in Python such as Pandas, Seaborn, and Matplotlib, and how to analyze mining data. Please reach out if you would like to connect on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>! 
