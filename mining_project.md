@@ -58,13 +58,17 @@ A pairplot shows correlations between variables, in this case if there are any r
 <img src="images/Python Seaborn2.png?raw=true"/>
 As you can see, there is no discernable linear trend or patterns. I confirmed this by using a correlation matrix:
 <img src="images/Python Correlation.png?raw=true"/>
-All the numbers are not close to one (except where the same variables intersect) so these numbers also do not show a relationship to each other.
+All the numbers are not close to 1 (except where the same variables intersect) or -1 so these numbers also do not show a relationship to each other.
 
 ### 4th Prompt
-The boss wants to see how the % Iron Concentrate changes throughout the day, also on June 1st, 2017. I created a line graph to show the relationship of every point throughout the day when samples were taken:
+The boss wants to see how the % Iron Concentrate and the other variables change throughout June 1st, 2017. I created a line graph in Seaborn to show the relationship of every point throughout the day when samples were taken:
+```python
+sns.lineplot(x='date', y='% Iron Concentrate', data=df_june)
+```
 <img src="images/Python Line Graph1.png?raw=true"/>
 <img src="images/Python Line Graph2.png?raw=true"/>
 <img src="images/Python Line Graph3.png?raw=true"/>
 <img src="images/Python Line Graph4.png?raw=true"/>
 
-
+## Conclusion 
+In this guided engineering project, 
