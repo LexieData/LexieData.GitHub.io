@@ -50,5 +50,5 @@ Our boss says something weird happened on June 1, 2017 & wants us to investigate
 
 ### 3rd Prompt
 The boss wants requests a visualization that relates all variables. I did this using the Seaborn library and creating a pairplot. A pairplot shows correlations between variables, in this case if there are any relationship between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
-<img src="images/Python Date Range.png?raw=true"/>
-
+<img src="images/Python Seaborn1.png?raw=true"/>
+<img src="images/Python Seaborn2.png?raw=true"/>
