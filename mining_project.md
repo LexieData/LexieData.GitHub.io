@@ -49,7 +49,7 @@ The boss says something weird happened on June 1, 2017 and wants me to investiga
 <img src="images/Python Date Range.png?raw=true"/>
 
 ### 3rd Prompt
-The boss requests a visualization that relates all variables. I did this using the Seaborn library and creating a pairplot using this code:
+The boss requests a visualization that relates all variables, for June 1, 2017. I did this using the Seaborn library and creating a pairplot using this code:
 ```python
 sns.pairplot(df_june_important)
 ```
@@ -57,7 +57,12 @@ A pairplot shows correlations between variables, in this case if there are any r
 <img src="images/Python Seaborn1.png?raw=true"/>
 <img src="images/Python Seaborn2.png?raw=true"/>
 As you can see, there is no discernable linear trend or patterns. I confirmed this by using a correlation matrix:
-<img src="images/Python Seaborn2.png?raw=true"/>
-All the numbers are not close to one (except where the same variables intersect) so these numbers do not show a relationship either.
+<img src="images/Python Correlation.png?raw=true"/>
+All the numbers are not close to one (except where the same variables intersect) so these numbers also do not show a relationship to each other.
 
-
+### 4th Prompt
+The boss wants to see how the % Iron Concentrate changes throughout the day, also on June 1st, 2017. I created a line graph to show the relationship of every point throughout the day when samples were taken:
+<img src="images/Python Seaborn1.png?raw=true"/>
+<img src="images/Python Seaborn1.png?raw=true"/>
+<img src="images/Python Seaborn1.png?raw=true"/>
+<img src="images/Python Seaborn1.png?raw=true"/>
