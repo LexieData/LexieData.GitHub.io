@@ -45,7 +45,7 @@ Each row represents a different statistic. Median is represented by the 50th per
 
 ### 2. 
 Our boss says something weird happened on June 1, 2017 & wants us to investigate. So I used a boolean mask and filtered the data to show only rows and columns between the dates May 31, 2017 and June 1, 2017. 
-<img src="images/Python Summary.png?raw=true"/>
+<img src="images/Python Date Range.png?raw=true"/>
 
 ```python
 print('this is the python code I used to solve this problem')
