@@ -14,9 +14,8 @@ What I learned from this project was:
 The data from this project comes from <a href="https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process">Kaggle</a>.
 For this project I used Python code in a program called DeepNote. I had to install Pandas in order to manipulate the data and install Seaborn and Matplotlib in order to visualize the data.
 When downloading the mining data for this project, there were commas where decimals should be so I used this code to fix that: <br>
-df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")
 ```python
-print('df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")')
+df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")
 ```
 
 ## Analysis
