@@ -40,15 +40,22 @@ I answered **4** prompts related to professional basketball:
   3. Visualize how all variables relate to one another.
 
 ### 1st Prompt 
-My prompt was "The boss wants the summary statistics for each column including the mean, median, min, and max." It was quite a simple code to answer this prompt. 
+The boss wants the summary statistics for each column including the mean, median, min, and max. It was quite a simple code to answer this prompt. 
 <img src="images/Python Summary.png?raw=true"/>
 Each row represents a different statistic. Median is represented by the 50th percentile aka "50%". 
 
-### 2md Prompt
-Our boss says something weird happened on June 1, 2017 & wants us to investigate. So I used a boolean mask and filtered the data to show only rows and columns for June 1, 2017. 
+### 2nd Prompt
+The boss says something weird happened on June 1, 2017 and wants me to investigate. So I used a boolean mask and filtered the data to show only rows and columns for June 1, 2017. 
 <img src="images/Python Date Range.png?raw=true"/>
 
 ### 3rd Prompt
-The boss wants requests a visualization that relates all variables. I did this using the Seaborn library and creating a pairplot. A pairplot shows correlations between variables, in this case if there are any relationship between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
+The boss requests a visualization that relates all variables. I did this using the Seaborn library and creating a pairplot using this code:
+```python
+sns.pairplot(df_june_important)
+```
+A pairplot shows correlations between variables, in this case if there are any relationships between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
 <img src="images/Python Seaborn1.png?raw=true"/>
 <img src="images/Python Seaborn2.png?raw=true"/>
+As you can see, there is no discernable linear trend or patterns.
+
+
