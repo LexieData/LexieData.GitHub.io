@@ -1,5 +1,5 @@
 <img src="images/Metals_R_Us_Title.png?raw=true"/>
-# Metals R' Us: A Mining Analysis Using Python
+# Metals R' Us
 
 ## Introduction
 
@@ -10,7 +10,11 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from a <a href="https://www.basketball-reference.com/leagues/NBA_2022_totals.html">website</a> called "Basketball Reference." On there, they have NBA player stats. The data I used comes from **2022**. This data set contains 812 rows and 31 columns, where each row represents a player and the columns contain information like position, team name, player name, and stats like 3 point percentage. I used Tableau to create visualizations using this data.
+The data from this project comes from <a href="https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process">Kaggle</a>.
+For this project I used Python code in a program called DeepNote. I had to install Pandas in order to manipulate the data and install Seaborn and Matplotlib in order to visualize the data.
+When downloading the mining data for this project, there were commas where decimals should be so I used this code to fix that: <br>
+df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")
+
 
 ## Analysis
 
