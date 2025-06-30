@@ -1,4 +1,4 @@
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Metals_R_Us_Title.png?raw=true"/>
 # Metals R' Us: A Mining Analysis Using Python
 
 ## Introduction
