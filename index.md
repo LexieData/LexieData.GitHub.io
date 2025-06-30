@@ -33,7 +33,8 @@ For this project, I analyzed NBA data and created more visualizations in Tableau
 
 ---
 #### [The Engineering Project] ()
-Coming soon
+
+I used Python to analyze mining data.
 
 ---
 #### [The HR Project] ()
