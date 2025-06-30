@@ -18,17 +18,18 @@ When downloading the mining data for this project, there were commas where decim
 ```python
 df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")
 ```
-By using the code below, I could see how many rows and columns are in this data set:
-```python
-df.shape
-```
-The output showed 737453 rows and 24 columns.
 
 Also part of the data cleaning process involved making sure all the variables were correct. The date column was defined as a string column so I changed it to a date/time column by using this code: 
 ```python
 df['date'] = pd.to_datetime(df['date'])
 ```
-
+Important facts about the data structure include:
+  a. how many rows and columns are in this data set
+```python
+df.shape
+```
+The output showed 737453 rows and 24 columns.
+  b. date range
 Between March 2017 and September 2017, samples were taken every 20 seconds or every hour. The "% Iron Concentrate" column is important for showing how pure the iron is.
 
 ## Analysis
@@ -39,9 +40,12 @@ I answered **4** prompts related to professional basketball:
 
 ### 1. 
 My prompt was "The boss wants the summary statistics for each column including the mean, median, min, and max." It was quite a simple code to answer this prompt. 
-<img src="images/Metals_R_Us_Title.png?raw=true"/>
+<img src="images/Python Summary.png?raw=true"/>
+Each row represents a different statistic. Median is represented by the 50th percentile aka "50%". 
+
 ### 2. 
-Our boss says something weird happened on June 1, 2017 & wants us to investigate. So I filtered the data to show only rows and columns between the dates May 31, 2017 and June 1, 2017. 
+Our boss says something weird happened on June 1, 2017 & wants us to investigate. So I used a boolean mask and filtered the data to show only rows and columns between the dates May 31, 2017 and June 1, 2017. 
+<img src="images/Python Summary.png?raw=true"/>
 
 ```python
 print('this is the python code I used to solve this problem')
