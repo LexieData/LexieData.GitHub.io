@@ -32,8 +32,8 @@ For this project I used Excel to analyze delivery foods trends from a company si
 For this project, I analyzed NBA data and created more visualizations in Tableau.
 
 ---
-#### [The Engineering Project] ()
-
+#### [The Engineering Project] (mining_project.md)
+[<img src="images/Sports.png?raw=true"/>](mining_project.md)
 I used Python to analyze mining data.
 
 ---
