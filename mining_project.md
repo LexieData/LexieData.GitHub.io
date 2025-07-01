@@ -56,7 +56,7 @@ sns.pairplot(df_june_important)
 ```
 A pairplot shows correlations between variables. In this case, the pairplot showed the relationship between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
 <img src="images/Python Seaborn1.png?raw=true"/>
-<img src="images/Python Seaborn2.png?raw=true"/>
+<img src="images/Python Seaborn2.png?raw=true"/> <br>
 As you can see, there is no discernable linear trend or patterns. I confirmed this by using a correlation matrix:
 <img src="images/Python Correlation.png?raw=true"/>
 All the numbers are not close to 1 (except where the same variables intersect) or -1, so these numbers do not show a strong relationship between the 4 columns.
