@@ -50,16 +50,16 @@ The boss says something weird happened on June 1, 2017 and wants me to investiga
 Since there are 432 pages of this data, it is hard to see any salient numbers. Creating a visualization would help to see any trends present; which leads into prompt 3. 
 
 ### 3rd Prompt
-The boss then requests a visualization that relates all variables, for June 1, 2017. I did this using the Seaborn library and creating a pairplot using this code:
+The boss then requests a visualization that relates all variables for June 1, 2017. I did this using the Seaborn library and creating a pairplot using this code:
 ```python
 sns.pairplot(df_june_important)
 ```
-A pairplot shows correlations between variables, in this case if there are any relationships between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
+A pairplot shows correlations between variables. In this case, the pairplot showed the relationship between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
 <img src="images/Python Seaborn1.png?raw=true"/>
 <img src="images/Python Seaborn2.png?raw=true"/>
 As you can see, there is no discernable linear trend or patterns. I confirmed this by using a correlation matrix:
 <img src="images/Python Correlation.png?raw=true"/>
-All the numbers are not close to 1 (except where the same variables intersect) or -1 so these numbers also do not show a relationship to each other.
+All the numbers are not close to 1 (except where the same variables intersect) or -1, so these numbers do not show a strong relationship between the 4 columns.
 
 ### 4th Prompt
 The boss wants to see how the % Iron Concentrate and the other variables change throughout June 1st, 2017. I created a line graph in Seaborn to show the relationship of every pointfor "% Iron Concentrate" throughout the day when samples were taken:
