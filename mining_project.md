@@ -13,13 +13,13 @@ What I learned from this project was:
 
 
 ## The Data
-The data set for this project comes from <a href="https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process">Kaggle</a>. 
+The data set for this project comes from <a href="https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process">Kaggle</a>. <br>
 I used Python code in a program called DeepNote to analyze the data. I had to install Pandas in order to manipulate the data and install Seaborn and Matplotlib in order to visualize the data.
 When downloading the mining data for this project, there were commas where decimals should be so I used this code to fix that: <br>
 ```python
 df = pd.read_csv('MiningProcess_Flotation_Plant_Database.csv',decimal=",")
 ```
-Also part of the data cleaning process involved ensuring all the variables were correct. The date column was defined as a string column so I changed it to a date/time column by using this code using Pandas: 
+Also part of the data cleaning process involved ensuring all of the variables were correct. The date column was defined as a string column so I changed it to a date/time column by using this code using Pandas: 
 ```python
 df['date'] = pd.to_datetime(df['date'])
 ```
