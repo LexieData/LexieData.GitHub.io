@@ -34,7 +34,7 @@ For this project, I analyzed NBA data and created more visualizations in Tableau
 ---
 #### [The Engineering Project](mining_project.md)
 [<img src="images/Metals_R_Us_Title.png?raw=true"/>](mining_project.md)
-I used Python to analyze mining data and created visualizations using Seaborn and Matplotlib.
+In Python, I analyzed mining data and created visualizations using Seaborn and Matplotlib.
 
 ---
 #### [The HR Project] ()
