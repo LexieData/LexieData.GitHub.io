@@ -78,7 +78,7 @@ for i in important_cols:
 <img src="images/Python Line Graph2.png?raw=true"/>
 <img src="images/Python Line Graph3.png?raw=true"/>
 <img src="images/Python Line Graph4.png?raw=true"/>
-From these graphs, you can see important spikes in the data i.e. around the 9:00 sample, there was a low percentage of iron concentrate and a high percentage of silica concentrate. Also, at 15:00 the "Flotation Column 5 Level" suddenly drops from a steady 500 to almost nothing; in this case this means the lower the level, the higher the grade of concentration. 
+From these graphs, you can see important spikes in the data e.g. around the 9:00 sample, there was a low percentage of iron concentrate and a high percentage of silica concentrate. Also, at 15:00 the "Flotation Column 5 Level" suddenly drops from a steady 500 to almost nothing; in this case this means the lower the level, the higher the grade of concentration. 
 
 ## Conclusion 
-In this guided engineering project for the Data Analytics Accelerator, I learned how to code in Python, how to use/download libraries in Python such as Pandas, Seaborn, and Matplotlib, and how to analyze mining data. Please reach out if you would like to connect on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>! 
+In this guided engineering project, I learned how to code in Python, how to use/download libraries in Python such as Pandas, Seaborn, and Matplotlib, and how to analyze mining data. Please reach out if you would like to connect on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>! 
