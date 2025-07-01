@@ -47,7 +47,7 @@ Each row represents a different statistic. Median is represented by the 50th per
 ### 2nd Prompt
 The boss says something weird happened on June 1, 2017 and wants me to investigate. So I used a boolean mask and filtered the data to show only rows and columns for June 1, 2017. 
 <img src="images/Python Date Range.png?raw=true"/>
-Since there are 432 pages of this data, it is hard to see any salient numbers. Creating a visualization would help to see any trends present, which leads into prompt 3. 
+Since there are 432 pages of this data, it is hard to see any salient numbers. Creating a visualization would help to see any trends present; which leads into prompt 3. 
 
 ### 3rd Prompt
 The boss then requests a visualization that relates all variables, for June 1, 2017. I did this using the Seaborn library and creating a pairplot using this code:
