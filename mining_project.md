@@ -3,7 +3,7 @@
 # Metals 'R' Us: A Mining Analysis Using Python
 
 ## Introduction
-Metals 'R' Us (not a metal toy store as the name might suggest) is a Canadian flotation plant that extracts impurities (e.g. silica) from iron ore concentrate. The goal is to yeild clean iron that they can sell. This is part of the mining process for manufacturing plants. In order to practice engineering data analytics, I was assigned to analyze this mining data for Avery Smith's Data Analytics Accelerator course.
+Metals 'R' Us (not a metal toy store as the name might suggest) is a flotation plant that extracts impurities (e.g. silica) from iron ore concentrate. The goal is to yeild clean iron that they can sell. This is part of the mining process for manufacturing plants. In order to practice engineering data analytics, I was assigned to analyze this mining data for Avery Smith's Data Analytics Accelerator course.
 
 What I learned from this project was:
   1. You can see summary statistics in Python by coding **df.describe()**
