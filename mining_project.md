@@ -28,14 +28,16 @@ I determined there were 737,453 rows and 24 columns by using this code:
 ```python
 df.shape
 ```
-Also, the date range was between March 2017 and September 2017 and samples were taken every 20 seconds or every hour (depending on the column). The "% Iron Concentrate" column is important for showing how pure the iron is.
+The date range was between March 2017 and September 2017 and samples were taken every 20 seconds or every hour (depending on the column). 
+Also, an important column is "% Iron Concentrate" for showing how pure the iron is.
 
 ## Analysis
 
-I answered **4** prompts related to professional basketball:
+I answered **4** prompts related to the mining process:
   1. Show the summary statistics for each column.
   2. Show data for only June 1, 2017.
   3. Visualize how all variables relate to one another.
+  4. Visualize how all variables change throughout one day.
 
 ### 1st Prompt 
 The boss wants the summary statistics for each column including the mean, median, min, and max. It was quite a simple code to answer this prompt. 
