@@ -57,12 +57,13 @@ sns.pairplot(df_june_important)
 A pairplot shows correlations between variables. In this case, the pairplot showed the relationship between 4 columns: "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 5 Level."
 <img src="images/Python Seaborn1.png?raw=true"/>
 <img src="images/Python Seaborn2.png?raw=true"/> <br>
+
 As you can see, there is no discernable linear trend or patterns. I confirmed this by using a correlation matrix:
 <img src="images/Python Correlation.png?raw=true"/>
 All the numbers are not close to 1 (except where the same variables intersect) or -1, so these numbers do not show a strong relationship between the 4 columns.
 
 ### 4th Prompt
-The boss wants to see how the % Iron Concentrate and the other variables change throughout June 1st, 2017. I created a line graph in Seaborn to show the relationship of every pointfor "% Iron Concentrate" throughout the day when samples were taken:
+The boss wants to see how the % Iron Concentrate and the other variables changed throughout June 1st, 2017. I created a line graph in Seaborn to show every sample taken throughout the day for "% Iron Concentrate":
 ```python
 sns.lineplot(x='date', y='% Iron Concentrate', data=df_june)
 ```
