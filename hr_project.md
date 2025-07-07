@@ -2,9 +2,9 @@
 
 # Driven to Attrition
 
-There are many reasons why employees leave a company. Finding out why these employees leave can help a company reduce the cost of training new employees, increase employee satisfaction/retention rate, and improve efficiency and productivty by having a stable workforce.
+There are many reasons why employees leave a company. Finding out why employees leave can help a company reduce the cost of training new employees, increase employee satisfaction/retention rate, and improve efficiency and productivty by having a stable workforce.
 
-For this guided project, I analyzed people data from IBM. Prentending to be an intern for IBM's Human Resources department, the boss wants to know why people are leaving the company aka the company's attrition. 
+For this guided project, I analyzed fictional people data from IBM by pretending to be an intern for IBM's Human Resources department. The boss wants to know why people are leaving the company aka the company's attrition. 
 
 I learned 4 things: <br>
   1. The strongest positive correlation was between **monthly income** and **total working years** <br>
@@ -13,22 +13,25 @@ I learned 4 things: <br>
   4. By creating a **linear regression model**, a person’s age and total years worked at this company explains around **60%** of the variance in people’s monthly income.
 
 ## The Data
-This data set comes from the Massachusetts Department of Education and was last updated in 2017. I gleaned insights from 1,862 rows of data which translates to 1,862 schools and cleaned the data by removing any duplicates. 
-You can find the data set <a href="https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data?select=MA_Public_Schools_datadict.csv">here</a>. <br>
-Then I uploaded the data into Tableau in order to visualize the data. I created a bar chart, scatter plot, and line graph which can be found at my dashboard <a href="https://public.tableau.com/app/profile/lexie.langella/viz/TableauMASchools/Dashboard1">here</a>
+This data set comes from Kaggle and can be found<a href="https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset">here</a>. 
+There are 1,470 rows of data and each row is an employee. There are 35 columns of data that describe each employee, including the most important column for the project: "Attrition".  
+I uploaded the data set into RStudio and used R coding to glean insights and visualize the data.
 
-From this I learned:
-  - Only **10** schools acheived **100%** graduation rate
-  - The higher the class size, the more likely those students graduate and attend college
-  - **4** schools met the passing threshold for math scores for the 4th grade
+The boss had four tasks/questions:
+  1. How do the most important demographics correlate?
+  2. Create a pairplot to show this correlation.
+  3. Use data to dispute a claim that the older employees were let go at a higher rate than the younger folks.
+  4. Create a linear regression model that predicts the monthly income based upon age and total working years.
 
 ## Analysis
-### Graduation Percentage
-Out of **1,862** schools, the schools shown below have the lowest graduation percentage. They all have lower than **20%** graduation rate.
+### Task 1
+The company wants to get an overview of how some of the most important demographics correlate. I did this by creating a correlation matrix.
 
 <img src="images/School Low Percent.png?raw=true"/>
 
-There is one school that is an outlier. The Curtis-Tufts High School is an alternative school that teaches special needs students. They provide smaller class sizes and a more individualized education program. They have a 0% graduation rate since any graduating students receive a Medford High School diploma. <br>
+The four highest correlations found are as follows: there is a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age
+Monthly Income – Total Working Year (.77)
+ <br>
 
 Below are the top **10** schools with **100%** graduation rate.
 
