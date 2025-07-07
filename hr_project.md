@@ -10,7 +10,7 @@ I learned 4 things: <br>
   1. The strongest positive correlation was between **monthly income** and **total working years** <br>
   2. How to create a **pairplot** to show correlations between company demographics. <br>
   3. A **box and whisker plot** showed the average age an employee left the company was **33** years old. <br>
-  4. By creating a **linear regression model**, a person’s age and total years worked at this company explains around **60%** of the variance in people’s monthly income.
+  4. By creating a **multiple linear regression model**, a person’s age and total years worked at this company explains around **60%** of the variance in people’s monthly income.
 
 ## The Data
 This data set comes from Kaggle and can be found<a href="https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset">here</a>. 
@@ -33,20 +33,40 @@ The company wants to get an overview of how some of the most important demograph
 The four highest correlations found are: there is a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age Monthly Income – Total Working Year (.77) <br>
 
 ### Task 2
-The boss wants to see a visual of the top four correlations. I did this by creating a pairplot:
+The boss wants to see a visual of the top four correlations. I did this by creating a pairplot using the "pairs" function in R:
 
 <img src="images/R Pairplot.png?raw=true"/>
 
-This pairplot is represented as scatter plots that compare two variables at a time. From this pairplot I see that the older you get, the more time you spend working.
+This pairplot is represented as scatter plots that compare two variables at a time. From this pairplot, I see that the older you get, the more time you spend working and the more monthly income you make. This insight supports the correlation matrix made previously.
 
 ### Task 3
-The Secretary of Education believes math scores are an indication of a school's success rate. So by looking at math scores from the 4th grade, we can see which schools' teaching methods are successful and which need more work.
+A disgruntled employee is suing the company because they think layoffs were heavily influenced by ageism. They're claiming the older employees were let go at a higher rate than the younger folks. The boss wants me to shut this down with the power of statistics. I used a box and whisker plot to show the average age of employees who were fired/left the company.
 
-<img src="images/School 4th Grade.png?raw=true"/>
+<img src="images/R Box and Whisker Plot.png?raw=true"/>
 
-The passing threshold percentage of averaged math scores is 50% so as this line graph shows, there were only 4 schools that met the criteria. It would be interesting to see which of these 4 elementary schools feed into middle schools and eventually high schools. Do these elementary schools with the higher math scores have the same students who eventually attend the high schools that have the highest graduation percentage?
+This plot shows the average age of the person who was fired/left was slightly lower than those who stayed and was between age 30 and 40. But to be sure, I used hypothesis testing. The hypothesis test used is the Welch Two Sample t-test since I am comparing two samples. 
 
-### Takeaways
+<img src="images/R Hypothesis Test.png?raw=true"/>
+
+The p-value is 1.38e-08 and since it’s a really small number, there is a statistically significant difference between the older and younger employees. These results support the box and whisker plot in that more younger employees left than the older employees. The average age of those who left the company were 33 years old.
+
+### Task 4
+The boss first wants to see a linear regression model that predicts monthly income based on age. I did this by using the lm or linear model function in R then adding "summary" to the function to see the results:
+
+<img src="images/R Linear Model1.png?raw=true"/>
+
+Since the p-value is less than .05 and by looking at the R squared value, we can say that a person’s age at this company explains around 25% of the variance in people’s monthly income. <br>
+
+Now the boss wants to see a multiple linear regression model that predicts monthly income based on age AND total working years. I added the "TotalWorkingYears" variable by using the + sign in the orginal linear model function:
+
+<img src="images/R Linear Model2.png?raw=true"/>
+
+By adding total working years, the r squared value went up so we can say that a person’s age and total years worked at this company explains around 60% of the variance in people’s monthly income.
+
+## Conclusion
+
+
+
 
 From this data, I answered three questions: which schools are struggling the most, how does class size effect college admission, and what are the top math schools in the state. My Tableau dashboard showed the names of the 10 schools that received a 100% graduation rate and those that had the lowest graduation rate, the higher the class size the more likely a student is to graduate, and a list of the 4 elementary schools that met the passing threshold for 4th grade math. 
 
