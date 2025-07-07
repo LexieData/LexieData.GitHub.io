@@ -27,8 +27,9 @@ The boss had four tasks/questions:
 ### Task 1
 The company wants to get an overview of how some of the most important demographics correlate. I did this by creating a correlation matrix.
 
-<img src="images/School Low Percent.png?raw=true"/>
-
+<img src="images/R Correlation1.png?raw=true"/>
+<img src="images/R Correlation2.png?raw=true"/>
+<img src="images/R Correlation3.png?raw=true"/>
 The four highest correlations found are as follows: there is a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age
 Monthly Income – Total Working Year (.77)
  <br>
