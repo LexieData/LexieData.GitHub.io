@@ -1,4 +1,4 @@
-<img src="images/Massachusetts Education Overview.png"/>
+<img src="images/The HR Project.png"/>
 
 # Driven to Attrition: Insights for HR
 
