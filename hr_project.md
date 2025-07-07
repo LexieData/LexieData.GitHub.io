@@ -30,22 +30,16 @@ The company wants to get an overview of how some of the most important demograph
 <img src="images/R Correlation1.png?raw=true"/>
 <img src="images/R Correlation2.png?raw=true"/>
 <img src="images/R Correlation3.png?raw=true"/>
-The four highest correlations found are as follows: there is a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age
-Monthly Income – Total Working Year (.77)
- <br>
+The four highest correlations found are: there is a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age Monthly Income – Total Working Year (.77) <br>
 
-Below are the top **10** schools with **100%** graduation rate.
+### Task 2
+The boss wants to see a visual of the top four correlations. I did this by creating a pairplot:
 
-<img src="images/School Top 10.png?raw=true"/>
+<img src="images/R Pairplot.png?raw=true"/>
 
-### Class Size and College Attendance
-The scatter plot shows the percent of students who attended college based on class size. The majority of schools had between 10 and 20 students in their class. There are outliers in both directions where some schools had fewer than 10 in class some had more than 20. The trend line indicates that the more students you have in class, the more likely it is that students will graduate and go to college.
+This pairplot is represented as scatter plots that compare two variables at a time. From this pairplot I see that the older you get, the more time you spend working.
 
-<img src="images/School Class Size.png?raw=true"/>
-
-The darker the dots are on this scatter plot, the more economically disadvantaged the students are in that class. There are more darker dots below the trend line and especially with lower class size numbers. If class size is a factor in a student not going to college, then adding more students in a class could give more opportunties for students to be motivated by their peers to go to college if they so choose.
-
-### 4th Grade Math
+### Task 3
 The Secretary of Education believes math scores are an indication of a school's success rate. So by looking at math scores from the 4th grade, we can see which schools' teaching methods are successful and which need more work.
 
 <img src="images/School 4th Grade.png?raw=true"/>
