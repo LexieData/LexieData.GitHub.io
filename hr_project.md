@@ -1,6 +1,6 @@
 <img src="images/Massachusetts Education Overview.png"/>
 
-# Driven to Attrition
+# Driven to Attrition: Insights for HR
 
 There are many reasons why employees leave a company. Finding out why employees leave can help a company reduce the cost of training new employees, increase employee satisfaction/retention rate, and improve efficiency and productivty by having a stable workforce.
 
@@ -65,6 +65,7 @@ By adding total working years, the r squared value went up so we can say that a 
 
 ## Conclusion
 
+I am happy to have learned and practiced some R skills.
 
 
 
