@@ -30,7 +30,7 @@ The company wants to get an overview of how some of the most important demograph
 <img src="images/R Correlation1.png?raw=true"/>
 <img src="images/R Correlation2.png?raw=true"/>
 <img src="images/R Correlation3.png?raw=true"/>
-The four highest correlations found are: there is a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age Monthly Income – Total Working Year (.77) <br>
+The four highest correlations are: a fairly strong positive correlation (.77) between monthly income and total working years, a fairly strong positive correlation (.68) between age and total working years, a moderately positive correlation (.49) between monthly income and age, and a low correlation (.30) between number of companies worked and age. <br>
 
 ### Task 2
 The boss wants to see a visual of the top four correlations. I did this by creating a pairplot using the "pairs" function in R:
