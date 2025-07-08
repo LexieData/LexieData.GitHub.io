@@ -48,7 +48,7 @@ This plot shows the average age of the person who was fired/left was slightly lo
 
 <img src="images/R Hypothesis Test.png?raw=true"/>
 
-The p-value is 1.38e-08 and since it’s a really small number, there is a statistically significant difference between the older and younger employees. These results support the box and whisker plot by showing more young employees left the company than older employees. The average age of those who left the company was 33 years old.
+The p-value is 1.38e-08 and since it’s a really small number, there is a statistically significant difference between employees who stayed versus left. Since it's statistically significant we can reject the null hypothesis. These results support the box and whisker plot by showing more young employees left the company than older employees. The average age of those who left the company was 33 years old and the average age who stayed was 37 years old. So the claim that older employees are being fired more than the younger ones is incorrect.
 
 ### Task 4
 The boss first wants to see a linear regression model that predicts monthly income based on age. I did this by using the lm or linear model function in R then adding "summary" to the function to see the results:
@@ -65,11 +65,5 @@ By adding total working years, the r squared value went up so we can say that a 
 
 ## Conclusion
 
-I am happy to have learned and practiced some R skills.
-
-
-
-From this data, I answered three questions: which schools are struggling the most, how does class size effect college admission, and what are the top math schools in the state. My Tableau dashboard showed the names of the 10 schools that received a 100% graduation rate and those that had the lowest graduation rate, the higher the class size the more likely a student is to graduate, and a list of the 4 elementary schools that met the passing threshold for 4th grade math. 
-
-This project was my first to use data in Tableau and create a dashboard. If you would like to hear me summarize this project, you can find my Loom video  <a href="https://www.loom.com/share/6573c3b7baf64ee2a45619b407ed0c16?sid=f42bb273-2565-4327-b59a-63999b5964fc">here</a>.
+I am happy to have learned and practiced some R skills. Working with human resources data was new to me too. 
 If you have any questions or would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>.
