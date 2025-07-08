@@ -6,22 +6,22 @@ There are many reasons why employees leave a company. Finding out why employees 
 
 For this guided project, I analyzed fictional people data from IBM by pretending to be an intern for IBM's Human Resources department. The boss wants to know why people are leaving the company aka the company's attrition. 
 
-I learned 4 things: <br>
+Four takeways from this project are: <br>
   1. The strongest positive correlation was between **monthly income** and **total working years** <br>
-  2. How to create a **pairplot** to show correlations between company demographics. <br>
+  2. How to create a **pairplot** in R to show correlations between company demographics. <br>
   3. A **box and whisker plot** showed the average age an employee left the company was **33** years old. <br>
   4. By creating a **multiple linear regression model**, a person’s age and total years worked at this company explains around **60%** of the variance in people’s monthly income.
 
 ## The Data
-This data set comes from Kaggle and can be found<a href="https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset">here</a>. 
-There are 1,470 rows of data and each row is an employee. There are 35 columns of data that describe each employee, including the most important column for the project: "Attrition".  
-I uploaded the data set into RStudio and used R coding to glean insights and visualize the data.
+This data set comes from Kaggle and can be found <a href="https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset">here</a>. 
+There are 1,470 rows of data; each representing an employee and 35 columns that describe each employee, including the most important column for the project: "Attrition".  
+I uploaded the data set into RStudio and used the programming language "R" to glean insights and visualize the data.
 
 The boss had four tasks/questions:
   1. How do the most important demographics correlate?
   2. Create a pairplot to show this correlation.
   3. Use data to dispute a claim that the older employees were let go at a higher rate than the younger folks.
-  4. Create a linear regression model that predicts the monthly income based upon age and total working years.
+  4. Create a multiple linear regression model that predicts the monthly income based upon age and total working years.
 
 ## Analysis
 ### Task 1
