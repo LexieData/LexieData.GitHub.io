@@ -61,7 +61,7 @@ Now the boss wants to see a multiple linear regression model that predicts month
 
 <img src="images/R Linear Model2.png?raw=true"/>
 
-By adding total working years, the r squared value went up so we can say that a person’s age and total years worked at this company explains around 60% of the variance in people’s monthly income. So factoring in both age and total years worked has a higher predictability on effecting monthly income. 
+By adding total working years, the r squared value went up so we can say that a person’s age and total working years at this company explains around 60% of the variance in people’s monthly income. So factoring in both age and total working years has a higher predictability on effecting monthly income. 
 
 ## Conclusion
 
