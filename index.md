@@ -37,8 +37,9 @@ For this project, I analyzed NBA data and created more visualizations in Tableau
 I used Python code to analyze mining data and created visualizations using Seaborn and Matplotlib.
 
 ---
-#### [The HR Project] ()
-Coming soon
+#### [The HR Project] (hr_project.md)
+[<img src="images/The HR Project.png?raw=true"/>](hr_project.md)
+For this project I used R to answer questions and create a multiple linear model, box and whisker plot, pairplot, and correlation matrix for HR data.
 
 
 
