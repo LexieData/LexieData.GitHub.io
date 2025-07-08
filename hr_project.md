@@ -48,7 +48,7 @@ This plot shows the average age of the person who was fired/left was slightly lo
 
 <img src="images/R Hypothesis Test.png?raw=true"/>
 
-The p-value is 1.38e-08 and since it’s a really small number, there is a statistically significant difference between the older and younger employees. These results support the box and whisker plot in that more younger employees left than the older employees. The average age of those who left the company were 33 years old.
+The p-value is 1.38e-08 and since it’s a really small number, there is a statistically significant difference between the older and younger employees. These results support the box and whisker plot by showing more young employees left the company than older employees. The average age of those who left the company was 33 years old.
 
 ### Task 4
 The boss first wants to see a linear regression model that predicts monthly income based on age. I did this by using the lm or linear model function in R then adding "summary" to the function to see the results:
