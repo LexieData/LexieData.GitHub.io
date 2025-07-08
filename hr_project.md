@@ -55,7 +55,7 @@ The boss first wants to see a linear regression model that predicts monthly inco
 
 <img src="images/R Linear Model1.png?raw=true"/>
 
-Since the p-value is less than .05 and by looking at the R squared value, we can say that a person’s age at this company explains around 25% of the variance in people’s monthly income. <br>
+Since the p-value is less than .05 and by looking at the R squared value, we can say that a person’s age at this company explains 25% of the variance in people’s monthly income. <br>
 
 Now the boss wants to see a multiple linear regression model that predicts monthly income based on age AND total working years. I added the "TotalWorkingYears" variable by using the + sign in the orginal linear model function:
 
