@@ -1,6 +1,28 @@
-# Medicare Claims Data Comparison
+# Medicare A and B Testing
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+According to the medicare.gov website, Medicare is described as "federal health insurance for anyone age 65 and older, 
+and some people under 65 with certain disabilities or conditions." 
+I have had years of experience with the 65 and older crowd working as a eldercare music therapist. I have seen patients 
+in skilled nursing, memory care, hospice, home health, adult day center, assisted living, and even independent living facilties. I've learned that not all 
+of these facilities operate the same behind the scenes, especially when it comes to insurance coverage.
+
+In creating this project, I wanted to do a deep dive into the different parts of Medicare and answer the following questions:
+  1. Which Part is used more often?
+  2. How do premiums compare between Part A and Part B?
+  3. How much of Medicare is actually used and what in price bracket?
+
+
+## The Data
+I found two data sets from the Centers for Medicare and Medicaid Services website at this link 
+There are four parts to Medicare:
+  Part A: Hospital Insurance
+  Part B: Medical Insurance
+  Part C: Medicare Advantage
+  Part D: Drug Insurance
+
+Part A helps to cover inpatient hospital visits, skilled nursing, home health, and hospice care. 
+Part B 
+
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
