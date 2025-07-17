@@ -7,14 +7,14 @@ in skilled nursing, memory care, hospice, home health, adult day center, assiste
 of these facilities operate the same behind the scenes, especially when it comes to insurance coverage.
 
 By using open-sourced Medicare data, I learned:
-  1. 
+  1. Part   is utilized most often.
   2. 
   3.
 
 
 ## The Data
-I found two data sets from the Centers for Medicare and Medicaid Services website at this <a href="https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-part-d">link</a for Medicare Part D and 
-this<a href="https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-part-a-part-b-all-types-of-service">link</a for Medicare A and B. 
+I found two data sets from the Centers for Medicare and Medicaid Services website at this <a href="https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-part-d">link</a> for Medicare Part D and 
+this <a href="https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-part-a-part-b-all-types-of-service">link</a> for Medicare A and B. 
 
 For context, there are four parts to Medicare:
   Part A: Hospital Insurance
