@@ -18,7 +18,7 @@ By using open-sourced Medicare data from 2021, I learned:
 I found two data sets from the Centers for Medicare and Medicaid Services website at this <a href="https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-part-d">link</a> for Medicare Part D and 
 this <a href="https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-part-a-part-b-all-types-of-service">link</a> for Medicare A and B. This is data from 2016 to 2021.
 
-For context, there are four parts to Medicare:
+For context, there are four parts to Medicare: <br>
   Part A: Hospital Insurance <br>
   Part B: Medical Insurance <br>
   Part C: Medicare Advantage <br>
