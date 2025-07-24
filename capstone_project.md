@@ -31,7 +31,7 @@ Part D helps to cover prescription drugs.
 
 In creating this project, I wanted to do a deep dive into the different parts of Medicare and answer the following questions:
   1. Is Medicare Part A or Part B used more often?
-  2. How do premiums compare between Part A and Part B?
+  2.
   3. How much of Medicare is actually used and what in price bracket?
   4. How do states compare with Medicare usage in Parts A, B, and D?
 
