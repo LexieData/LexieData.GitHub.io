@@ -15,7 +15,7 @@ What I learned from this project was:
 
 ## The Data
 The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the Billboard Annual Charts for the United States from 1946-2023. <br>
-This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data.
+This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, artist, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data.
 
 ## Analysis
 
