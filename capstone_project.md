@@ -3,7 +3,7 @@
 # Topping the Charts: A Billboard Artist Analysis
 
 ## Introduction
-Music has been a big part of my life. I have two college degrees in music and my parents work for BMI. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my studies. I am looking at the top Billboard charted songs throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
+Music has been a big part of my life. I have two college degrees in music and my parents work for BMI. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. I am looking at the top songs on the Billboard Chart throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
   1.
@@ -27,7 +27,6 @@ I answered **4** questions related to professional basketball:
 
 ### Track 1
 The first question asks: "Who had the number one spot in the charts by the end of each year?" 
-<img src="images/Tableau Heat Map.png"/> <br>
 
 
 ### Track 2
