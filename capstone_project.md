@@ -1,6 +1,6 @@
-<img src="images/Sports.png"/>
+<img src="images/Billboard Hits.png"/>
 
-# Topping the Charts
+# Topping the Charts: A Billboard Artist Analysis
 
 ## Introduction
 Music has been a big part of my life. I have two college degrees in music and my parents work for BMI. Also, with losing the heavy metal icon Ozzy Osbourne last week, has inspired me to create a music capstone project for my studies. I am looking at the top Billboard charted songs throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
