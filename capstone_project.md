@@ -3,7 +3,7 @@
 # Topping the Charts: A Billboard Artist Analysis
 
 ## Introduction
-Music has been a big part of my life. I have two college degrees in music and my parents work for BMI. Also, with losing the heavy metal icon Ozzy Osbourne last week, has inspired me to create a music capstone project for my studies. I am looking at the top Billboard charted songs throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
+Music has been a big part of my life. I have two college degrees in music and my parents work for BMI. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my studies. I am looking at the top Billboard charted songs throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
   1.
@@ -13,7 +13,7 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the Billboard ANnual Charts from 1946-2023. <br>
+The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the Billboard Annual Charts for the United States from 1946-2023. <br>
 This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data.
 
 ## Analysis
