@@ -10,6 +10,7 @@ What I learned from this project was:
   2. 
   3. 
   4.
+  5.
 
 
 ## The Data
@@ -23,6 +24,7 @@ I answered **4** questions related to professional basketball:
   2. Which artists made the number one spot more than once?
   3. Did BMI or ASCAP songwriters have the most number one hits?
   4. What genre made the number one spot and how did they change throughout the decades?
+  5. Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?
 
 
 ### Track 1
@@ -36,7 +38,10 @@ The second question is, "Which artists made the number one spot more than once?"
 Question three asks, "Did BMI or ASCAP songwriters have the most number one hits?" I answered this by using a 
 
 ### Track 4
-The last question asks, "What genre made the number one spot and how did they change throughout the decades?" 
+The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" 
+
+### Track 4
+The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?"
 
 ## Mama I'm Coming Home
 
