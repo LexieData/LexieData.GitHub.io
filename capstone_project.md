@@ -1,9 +1,9 @@
 <img src="images/Sports.png"/>
 
-# Points, Assists, Rebounds, Oh My!
+# Topping the Charts
 
 ## Introduction
-
+Music has been a big part of my life. I have two college degrees in music and my parents work for BMI. Also, with losing the heavy metal icon Ozzy Osbourne last week, has inspired me to create a music capstone project for my studies. I am looking at the top Billboard charted songs throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
   1.
@@ -39,6 +39,6 @@ Question three asks, "Did BMI or ASCAP songwriters have the most number one hits
 ### Track 4
 The last question asks, "What genre made the number one spot and how did they change throughout the decades?" 
 
-## Conclusion
+## Mama I'm Coming Home
 
 If you would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>! 
