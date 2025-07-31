@@ -34,7 +34,7 @@ This picture shows the earliest number one hits.
 The Ink Spots had the earliest number one hit with the song "The Gypsy".
 
 And this picture shows the latest number one hits on the billboard chart.
-<img src="images/SQL 1 Rank2.png"/>
+<img src="images/SQL 1 Rank2.png"/> <br>
 Morgan Wallen had the latest number one hit with the song "Last Night"
 
 
@@ -45,14 +45,14 @@ The second question is, "Which artists made the number one spot more than once?"
 Question three asks, "Did BMI or ASCAP songwriters have the most number one hits?" I answered this by using a 
 
 ### Track 4
-The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel.
+The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel. <br>
 <img src="images/Genre Rank1.png"/>
 <img src="images/Genre Rank2.png"/>
 <img src="images/Genre Rank3.png"/>
 <img src="images/Genre Rank4.png"/>
 
 It is interesting to see how music tastes change throughout the years. For example, the data shows the most popular genre in the 40s was Jazz/Swing and after 1962, that genre is no longer listed. <br>
-I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top.
+I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top. <br>
 <img src="images/Genre Order1.png"/>
 <img src="images/Genre Order2.png"/>
 
