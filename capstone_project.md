@@ -29,14 +29,11 @@ I answered **4** questions related to professional basketball:
 
 ### Track 1
 The first question asks: "Who had the number one spot in the charts by the end of each year?" I did this by filtering rows in SQL.
-
-<img src="images/SQL 1 Rank1.png"/>
 This picture shows the earliest number one hits.
+<img src="images/SQL 1 Rank1.png"/> <br>
 
-<img src="images/SQL 1 Rank2.png"/>
 And this picture shows the latest number one hits on the billboard chart.
-
-
+<img src="images/SQL 1 Rank2.png"/>
 
 
 ### Track 2
