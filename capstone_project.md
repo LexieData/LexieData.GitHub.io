@@ -56,7 +56,7 @@ I filtered the rows looking for either artist but sadly, neither one was on the 
 Hard to believe "Crazy Train" was never on the Billboard charts. So I looked into this further. 
 Using Excel I search for "ozzy" anywhere in the table and I found this:
 
-<img src="images/Excel Ozzy Filter.png"/>
+<img src="images/Excel Ozzy.png"/>
 So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. 
 
 Since this data set ends in 2023, I found that recently "Crazy Train" did make the Hot 100 list.
