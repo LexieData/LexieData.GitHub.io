@@ -56,7 +56,7 @@ Using Excel I search for "ozzy" anywhere in the table and I found this:
 <img src="images/Excel Ozzy.png"/>
 So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. 
 
-Since this data set ends in 2023, I found that recently "Crazy Train" did make the Hot 100 list.
+Since this data set ends in 2023, I discovered that recently "Crazy Train" did make the Hot 100 list.
 
 
 ## See You On the Other Side
