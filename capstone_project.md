@@ -30,7 +30,9 @@ I answered **5** questions related to professional basketball:
 ### Track 1
 The first question asks: "Who had the number one spot in the charts by the end of each year?" I did this by filtering rows in SQL.
 This picture shows the earliest number one hits.
+
 <img src="images/SQL 1 Rank1.png"/> <br>
+
 The Ink Spots had the earliest number one hit with the song "The Gypsy".
 
 And this picture shows the latest number one hits on the billboard chart.
