@@ -6,7 +6,7 @@
 Music has been a big part of my life. I have two college degrees in music and my parents work for BMI, a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. I am looking at the top songs on the Billboard Chart throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
-  1.
+  1. The earliest year-end #1 Billboard hit was "The Gypsy" by **The Ink Spots** in 1946 and the latest being "Last Night" by **Morgan Wallen** in 2023.
   2. 
   3. 
   4.
@@ -14,12 +14,12 @@ What I learned from this project was:
 
 
 ## The Data
-The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the Billboard Annual Charts for the United States from 1946-2023. This data include the Billboard Hot 100 which launched in 1959 and data prior to that had charts between 30 and 50 song ranking. <br>
+The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the year-end Billboard annual charts for the United States from 1946-2023. This data includes the Billboard Hot 100 which launched in 1959 and data prior to that had charts between 30 and 50 song ranking. Usually the Billboard Hot 100 shows the WEEKLY ranked songs but this data set shows the YEAR-END ranked songs which is measured by the combination of sales, streaming, and radio play throughout the year. <br>
 This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, artist, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data.
 
 ## Analysis
 
-I answered **4** questions related to professional basketball:
+I answered **5** questions related to professional basketball:
   1. Who had the number one spot in the charts by the end of each year?
   2. Which artists made the number one spot more than once?
   3. Did BMI or ASCAP songwriters have the most number one hits?
@@ -31,9 +31,11 @@ I answered **4** questions related to professional basketball:
 The first question asks: "Who had the number one spot in the charts by the end of each year?" I did this by filtering rows in SQL.
 This picture shows the earliest number one hits.
 <img src="images/SQL 1 Rank1.png"/> <br>
+The Ink Spots had the earliest number one hit with the song "The Gypsy".
 
 And this picture shows the latest number one hits on the billboard chart.
 <img src="images/SQL 1 Rank2.png"/>
+Morgan Wallen had the latest number one hit with the song "Last Night"
 
 
 ### Track 2
@@ -43,16 +45,20 @@ The second question is, "Which artists made the number one spot more than once?"
 Question three asks, "Did BMI or ASCAP songwriters have the most number one hits?" I answered this by using a 
 
 ### Track 4
-The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank and comparing the genre in Excel.
+The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genre in Excel.
 <img src="images/Genre Rank1.png"/>
 <img src="images/Genre Rank2.png"/>
 <img src="images/Genre Rank3.png"/>
 <img src="images/Genre Rank4.png"/>
 
-As you can see, the most popular genre in the 40s was Jazz/Swing and after 1962, that genre is no longer listed and the genres that end up being the most popular are Pop, Pop is listed by itself and also grouped with other genres. 
+It is interesting to see how music tastes change throughout the years. For example, the data shows the most popular genre in the 40s was Jazz/Swing and after 1962, that genre is no longer listed. <br>
+I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top.
+<img src="images/Genre Rank4.png"/>
+
+The most popular genre was Pop, followed by Rock and Jazz/Swing. Pop was listed 41 times, whether it was by itself or with a group of other genres. The least amount of genres that got number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
 
 ### Track 4
-The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?"
+The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the year-end Billboard Chart and if so, what was their ranking?"
 I filtered the rows looking for either artist but sadly, neither one was on the charts!
 
 <img src="images/Ozzy Filter.png"/>
@@ -60,9 +66,7 @@ Hard to believe "Crazy Train" was never on the Billboard charts. So I looked int
 Using Excel I search for "ozzy" anywhere in the table and I found this:
 
 <img src="images/Excel Ozzy.png"/>
-So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. 
-
-Since this data set ends in 2023, I discovered that recently "Crazy Train" did make the Hot 100 list.
+So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. There is no other mention of Ozzy or Black Sabbath in the year-end Billboard Chart rating. I know they have made the weekly Billboard Hot 100 charts but I learned from this data that they didn't rank high enough those years to land on the year-end chart. I wonder if future data will show Ozzy and Sabbath making it on the year-end Billboard Hot 100 list for 2025 since it seems that fans have been playing his music more since his passing. 
 
 
 ## See You On the Other Side
