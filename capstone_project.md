@@ -53,7 +53,8 @@ The fourth question is, "What genre made the number one spot and how did they ch
 
 It is interesting to see how music tastes change throughout the years. For example, the data shows the most popular genre in the 40s was Jazz/Swing and after 1962, that genre is no longer listed. <br>
 I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top.
-<img src="images/Genre Rank4.png"/>
+<img src="images/Genre Order1.png"/>
+<img src="images/Genre Order2.png"/>
 
 The most popular genre was Pop, followed by Rock and Jazz/Swing. Pop was listed 41 times, whether it was by itself or with a group of other genres. The least amount of genres that got number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
 
