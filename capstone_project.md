@@ -30,10 +30,10 @@ I answered **4** questions related to professional basketball:
 ### Track 1
 The first question asks: "Who had the number one spot in the charts by the end of each year?" I did this by filtering rows in SQL.
 
-<img src="images/Billboard Hits.png"/>
+<img src="images/SQL 1 Rank1.png"/>
 This picture shows the earliest number one hits.
 
-<img src="images/Billboard Hits.png"/>
+<img src="images/SQL 1 Rank2.png"/>
 And this picture shows the latest number one hits on the billboard chart.
 
 
@@ -52,11 +52,11 @@ The fourth question is, "What genre made the number one spot and how did they ch
 The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?"
 I filtered the rows looking for either artist but sadly, neither one was on the charts!
 
-<img src="images/Billboard Hits.png"/>
+<img src="images/Ozzy Filter.png"/>
 Hard to believe "Crazy Train" was never on the Billboard charts. So I looked into this further. 
 Using Excel I search for "ozzy" anywhere in the table and I found this:
 
-<img src="images/Billboard Hits.png"/>
+<img src="images/Excel Ozzy Filter.png"/>
 So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. 
 
 Since this data set ends in 2023, I found that recently "Crazy Train" did make the Hot 100 list.
