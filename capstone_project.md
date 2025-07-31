@@ -43,7 +43,13 @@ The second question is, "Which artists made the number one spot more than once?"
 Question three asks, "Did BMI or ASCAP songwriters have the most number one hits?" I answered this by using a 
 
 ### Track 4
-The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" 
+The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank and comparing the genre in Excel.
+<img src="images/Genre Rank1.png"/>
+<img src="images/Genre Rank2.png"/>
+<img src="images/Genre Rank3.png"/>
+<img src="images/Genre Rank4.png"/>
+
+As you can see, the most popular genre in the 40s was Jazz/Swing and after 1962, that genre is no longer listed and the genres that end up being the most popular are Pop, Pop is listed by itself and also grouped with other genres. 
 
 ### Track 4
 The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?"
