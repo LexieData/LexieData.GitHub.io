@@ -8,7 +8,7 @@ Music has been a big part of my life. I have two college degrees in music and my
 What I learned from this project was:
   1. The earliest year-end #1 Billboard hit was "The Gypsy" by **The Ink Spots** in 1946 and the latest being "Last Night" by **Morgan Wallen** in 2023.
   2. **The Beatles** were the only band to be on the rank 1, year-end Billboard charts more than once.
-  3. **Pop** has become the most popular genre and **Jazz/Swing** stopped being popular after 1962.
+  3. **Pop** has become the most popular genre.
   4. **Ozzy Osbourne** showed up as a co-writer on one song but he himself nor **Black Sabbath** ever made the year-end Billboard charts.
 
 
