@@ -19,23 +19,23 @@ This data set contains 7,004 rows and 12 columns, where each row represents a so
 ## Analysis
 
 I answered **4** questions about the year-end Billboard Charts:
-  1. Who had the number one spot in the charts by the end of each year?
+  1. Who was ranked #1 in the charts by the end of each year?
   2. Which artists made the number one spot more than once?
-  3. What genre made the number one spot and how did they change throughout the decades?
+  3. What genres represented the rank #1 songs and how did they change throughout the decades?
   4. Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?
 
 
 ### Track 1
-The first question asks: "Who had the number one spot in the charts by the end of each year?" I did this by filtering rows in SQL. <br>
-This picture shows the earliest number one hits.
+The first question asks: "Who ranked #1 in the charts by the end of each year?" I did this by filtering rows in SQL. <br>
+This picture shows the earliest rank 1 songs.
 
 <img src="images/SQL 1 Rank1.png"/> <br>
 
-The Ink Spots had the earliest number one hit with the song "The Gypsy".
+The Ink Spots had the earliest #1 hit with the song "The Gypsy".
 
-And this picture shows the latest number one hits on the billboard chart.
+And this picture shows the latest rank 1 songs on the billboard chart.
 <img src="images/SQL 1 Rank2.png"/> <br>
-Morgan Wallen had the latest number one hit with the song "Last Night"
+Morgan Wallen had the latest #1 hit with the song "Last Night"
 
 
 ### Track 2
@@ -44,7 +44,7 @@ The second question is, "Which artists made the number one spot more than once?"
 Where "Sheet1!Artist" is the "Artist" column I copied from the original worksheet into a new worksheet so it would only count the filtered rank 1 rows and C2 is the artist name I searched for. Then I copied that formula for the rest of the artists and found that The Beatles were the only band to be on the rank 1, year-end 1946-2023 Billboard Charts. They were on there two times in 1964 and 1968.
 
 ### Track 3
-The third question asks, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel. <br>
+The third question asks, "What genres represented the rank #1 songs and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel. <br>
 <img src="images/Genre Rank1.png"/>
 <img src="images/Genre Rank2.png"/>
 <img src="images/Genre Rank3.png"/>
