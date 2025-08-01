@@ -26,7 +26,7 @@ I answered **4** questions about the year-end Billboard Charts:
 
 
 ### Track 1
-The first question asks: "Who ranked #1 in the charts by the end of each year?" I did this by filtering rows in SQL. <br>
+The first question asks: "Who ranked #1 in the charts by the end of each year?" I did this by using 2 SQL queries. <br>
 This picture shows the earliest rank 1 songs.
 
 <img src="images/SQL 1 Rank1.png"/> <br>
