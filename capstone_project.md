@@ -40,6 +40,7 @@ Morgan Wallen had the latest #1 hit with the song "Last Night"
 
 ### Track 2
 The second question is, "Which artists made the number one spot more than once?" I answered this by using the COUNTIF formula in Excel: <br>
+
 <img src="images/Artist Occurances.png"/> <br>
  
 I copied that formula for the rest of the artists and found that The Beatles were the only band to be on the rank 1, year-end 1946-2023 Billboard Charts. They were on there two times: in 1964 and 1968.
