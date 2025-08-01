@@ -3,7 +3,7 @@
 # Topping the Charts: A Billboard Artist Analysis
 
 ## All Aboard!
-Music has been a big part of my life. I have two college degrees in music and my parents work for a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. For this project I am looking at the top songs on the Billboard Charts throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
+Music has been a big part of my life. I have two college degrees in music and my parents work for a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. For this project, I am looking at the top songs on the Billboard Charts throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
   1. The earliest year-end #1 Billboard hit was "The Gypsy" by **The Ink Spots** in 1946 and the latest being "Last Night" by **Morgan Wallen** in 2023.
