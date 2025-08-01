@@ -3,11 +3,11 @@
 # Topping the Charts: A Billboard Artist Analysis
 
 ## All Aboard!
-Music has been a big part of my life. I have two college degrees in music and my parents work for a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. I am looking at the top songs on the Billboard Charts throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
+Music has been a big part of my life. I have two college degrees in music and my parents work for a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. For this project I am looking at the top songs on the Billboard Charts throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
   1. The earliest year-end #1 Billboard hit was "The Gypsy" by **The Ink Spots** in 1946 and the latest being "Last Night" by **Morgan Wallen** in 2023.
-  2. 
+  2. **The Beatles** were the only band to be on the rank 1, year-end Billboard charts more than once.
   3. 
   4. **Pop** has become the most popular genre and **Jazz/Swing** stopped being popular after 1962.
   5. **Ozzy Osbourne** showed up as a co-writer on one song but he himself nor **Black Sabbath** ever made the year-end Billboard charts.
@@ -15,7 +15,7 @@ What I learned from this project was:
 
 ## The Data
 The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the year-end Billboard annual charts for the United States from 1946-2023. This data includes the Billboard Hot 100 which launched in 1959 and data prior to that had charts between 30 and 50 song ranking. Usually the Billboard Hot 100 shows the WEEKLY ranked songs but this data set shows the YEAR-END ranked songs which is measured by the combination of sales, streaming, and radio play throughout the year. <br>
-This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, artist, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data.
+This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, artist, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data. I used SQL and Excel to analyze the data. 
 
 ## Analysis
 
@@ -41,7 +41,9 @@ Morgan Wallen had the latest number one hit with the song "Last Night"
 
 
 ### Track 2
-The second question is, "Which artists made the number one spot more than once?" I answered this by creating a 
+The second question is, "Which artists made the number one spot more than once?" I answered this by creating this formula in Excel:
+**=COUNTIF(Sheet1!Artist, C2)** <br>
+Where "Sheet1!Artist" is the "Artist" column I copied from the original worksheet into a new worksheet so it would only count the filtered rank 1 rows and C2 is the artist name I searched for. Then I copied that formula for the rest of the artists and found that The Beatles were the only band to be on the rank 1, year-end 1946-2023 Billboard Charts. They were on there two times in 1964 and 1968.
 
 ### Track 3
 Question three asks, "Did BMI or ASCAP songwriters have the most number one hits?" I answered this by using a 
@@ -57,11 +59,11 @@ It is interesting to see how music tastes change throughout the years. For examp
 I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top. Then I made a bar graph in PowerBI to visualize these results. <br>
 <img src="images/PowerBI Genre.png"/> <br>
 
-The most popular genre was Pop, followed by Rock and Jazz/Swing. Pop was listed 41 times, whether it was by itself or with a group of other genres. The least amount of genres that got number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
+The most popular genre was Pop, followed by Rock and Jazz/Swing. Pop was listed 41 times, whether it was by itself or with a group of other genres. The genres that got the least amount of number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
 
 ### Track 5
 The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the year-end Billboard Chart and if so, what was their ranking?"
-I filtered the rows looking for either artist but sadly, neither one was on the charts!
+I filtered the rows in SQL looking for either artist but sadly neither one was on the charts!
 
 <img src="images/Ozzy Filter.png"/>
 I found this hard to believe, so I looked into this further. 
