@@ -44,10 +44,7 @@ The second question is, "Which artists made the number one spot more than once?"
 Where "Sheet1!Artist" is the "Artist" column I copied from the original worksheet into a new worksheet so it would only count the filtered rank 1 rows and C2 is the artist name I searched for. Then I copied that formula for the rest of the artists and found that The Beatles were the only band to be on the rank 1, year-end 1946-2023 Billboard Charts. They were on there two times in 1964 and 1968.
 
 ### Track 3
-Question three asks, "Did BMI or ASCAP songwriters have the most number one hits?" I answered this by using a 
-
-### Track 4
-The fourth question is, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel. <br>
+The third question asks, "What genre made the number one spot and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel. <br>
 <img src="images/Genre Rank1.png"/>
 <img src="images/Genre Rank2.png"/>
 <img src="images/Genre Rank3.png"/>
@@ -59,8 +56,8 @@ I counted the genres using the COUNTIF function in Excel and ordered them by mos
 
 The most popular genre was Pop, followed by Rock and Jazz/Swing. Pop was listed 41 times, whether it was by itself or with a group of other genres. The genres that got the least amount of number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
 
-### Track 5
-The last question asks, "Did Ozzy Osbourne and/or Black Sabbath make the year-end Billboard Chart and if so, what was their ranking?"
+### Track 4
+The last question is, "Did Ozzy Osbourne and/or Black Sabbath make the year-end Billboard Chart and if so, what was their ranking?"
 I filtered the rows in SQL looking for either artist but sadly neither one was on the charts!
 
 <img src="images/Ozzy Filter.png"/>
