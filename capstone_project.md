@@ -8,23 +8,21 @@ Music has been a big part of my life. I have two college degrees in music and my
 What I learned from this project was:
   1. The earliest year-end #1 Billboard hit was "The Gypsy" by **The Ink Spots** in 1946 and the latest being "Last Night" by **Morgan Wallen** in 2023.
   2. **The Beatles** were the only band to be on the rank 1, year-end Billboard charts more than once.
-  3. 
-  4. **Pop** has become the most popular genre and **Jazz/Swing** stopped being popular after 1962.
-  5. **Ozzy Osbourne** showed up as a co-writer on one song but he himself nor **Black Sabbath** ever made the year-end Billboard charts.
+  3. **Pop** has become the most popular genre and **Jazz/Swing** stopped being popular after 1962.
+  4. **Ozzy Osbourne** showed up as a co-writer on one song but he himself nor **Black Sabbath** ever made the year-end Billboard charts.
 
 
 ## The Data
 The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the year-end Billboard annual charts for the United States from 1946-2023. This data includes the Billboard Hot 100 which launched in 1959 and data prior to that had charts between 30 and 50 song ranking. Usually the Billboard Hot 100 shows the WEEKLY ranked songs but this data set shows the YEAR-END ranked songs which is measured by the combination of sales, streaming, and radio play throughout the year. <br>
-This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, artist, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data. I used SQL and Excel to analyze the data. 
+This data set contains 7004 rows and 12 columns, where each row represents song ranking and the columns contain information like genre, artist, ASACP Songwriter, BMI Songwriter, and year. I used PowerBI to create visualizations using this data and SQL and Excel to analyze the data. 
 
 ## Analysis
 
-I answered **5** questions related to professional basketball:
+I answered **4** questions related to professional basketball:
   1. Who had the number one spot in the charts by the end of each year?
   2. Which artists made the number one spot more than once?
-  3. Did BMI or ASCAP songwriters have the most number one hits?
-  4. What genre made the number one spot and how did they change throughout the decades?
-  5. Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?
+  3. What genre made the number one spot and how did they change throughout the decades?
+  4. Did Ozzy Osbourne and/or Black Sabbath make the Billboard Chart and if so, what was their ranking?
 
 
 ### Track 1
