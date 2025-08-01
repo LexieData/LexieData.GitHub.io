@@ -18,7 +18,7 @@ This data set contains 7004 rows and 12 columns, where each row represents a son
 
 ## Analysis
 
-I answered **4** questions related to professional basketball:
+I answered **4** questions about the year-end Billboard Charts:
   1. Who had the number one spot in the charts by the end of each year?
   2. Which artists made the number one spot more than once?
   3. What genre made the number one spot and how did they change throughout the decades?
