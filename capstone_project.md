@@ -55,7 +55,7 @@ It is interesting to see how music tastes change throughout the years and the co
 I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top. Then I made a bar graph in PowerBI to visualize these results. <br>
 <img src="images/PowerBI Genre.png"/> <br>
 
-The most popular genre was Pop, followed by Rock. Pop was listed 41 times, whether it was by itself or with a group of other genres. The genres that got the least amount of number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
+The most popular genre was Pop, followed by Rock. Pop was listed 41 times, whether it was by itself or with a group of other genres. The genres that ranked 1 the least amount of times were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
 
 ### Track 4
 The last question is, "Did Ozzy Osbourne and/or Black Sabbath make the year-end Billboard Chart and if so, what was their ranking?"
