@@ -50,7 +50,7 @@ The third question asks, "What genre made the number one spot and how did they c
 <img src="images/Genre Rank3.png"/>
 <img src="images/Genre Rank4.png"/>
 
-It is interesting to see how music tastes change throughout the years and the combination of genres one song can have like "Jazz/Swing, Indie, R&B" as seen in the 1990's. <br>
+It is interesting to see how music tastes change throughout the years and the combination of genres one song can have like "Jazz/Swing, Indie, R&B" seen in the 1990's. <br>
 
 I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top. Then I made a bar graph in PowerBI to visualize these results. <br>
 <img src="images/PowerBI Genre.png"/> <br>
