@@ -41,7 +41,7 @@ Morgan Wallen had the latest #1 hit with the song "Last Night"
 ### Track 2
 The second question is, "Which artists made the number one spot more than once?" I answered this by creating this formula in Excel:
 **=COUNTIF(Sheet1!Artist, C2)** <br>
-Where "Sheet1!Artist" is the "Artist" column I copied from the original worksheet into a new worksheet so it would only count the filtered rank 1 rows and C2 is the artist name I searched for. Then I copied that formula for the rest of the artists and found that The Beatles were the only band to be on the rank 1, year-end 1946-2023 Billboard Charts. They were on there two times in 1964 and 1968.
+Where "Sheet1!Artist" is the "Artist" column I copied from the original worksheet into a new worksheet so it would only count the filtered rank 1 rows and C2 is the cell of the artist name I searched for. Then I copied that formula for the rest of the artists and found that The Beatles were the only band to be on the rank 1, year-end 1946-2023 Billboard Charts. They were on there two times: in 1964 and 1968.
 
 ### Track 3
 The third question asks, "What genres represented the rank #1 songs and how did they change throughout the decades?" I answered this by filtering the rank to "1" and comparing the genres in Excel. <br>
