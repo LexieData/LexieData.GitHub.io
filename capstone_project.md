@@ -14,7 +14,7 @@ What I learned from this project was:
 
 ## The Data
 The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the year-end Billboard annual charts for the United States from 1946-2023. This data includes the Billboard Hot 100 which launched in 1959 and data prior to that had charts between 30 and 50 song ranking. Usually the Billboard Hot 100 shows the WEEKLY ranked songs but this data set shows the YEAR-END ranked songs which is measured by the combination of sales, streaming, and radio play throughout the year. <br>
-This data set contains 7004 rows and 12 columns, where each row represents a song and the columns contain information like rank, genre, artist, and year. I used PowerBI to create visualizations using this data and SQL and Excel to analyze the data. 
+This data set contains 7004 rows and 12 columns, where each row represents a song and the columns contain information like rank, genre, artist, and year. I used Power BI to create visualizations using this data and SQL and Excel to analyze the data. 
 
 ## Analysis
 
@@ -66,9 +66,10 @@ I found this hard to believe, so I looked into this further.
 Using Excel I searched for "Ozzy" anywhere in the table and I found this:
 
 <img src="images/Excel Ozzy.png"/>
-So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. There is no other mention of Ozzy or Black Sabbath in the year-end Billboard Chart rating. I know they have made the weekly Billboard Hot 100 charts but I learned from this data that they didn't rank high enough those years to land on the year-end chart. I wonder if future data will show Ozzy and Sabbath making it on the year-end Billboard Hot 100 list for 2025 since it seems that fans have been playing his music more since his passing. 
+So Ozzy co-wrote on Lita Ford's song "Close My Eyes Forever". Even though he sang on the song, he wasn't listed as the main artist so he didn't show up on the original artist filter. There is no other mention of Ozzy or Black Sabbath in the year-end Billboard Chart rating. I know they have made the weekly Billboard Hot 100 charts but I learned from this data that they didn't rank high enough those years to land on the year-end chart. I wonder if future data will show Ozzy and Sabbath making it on the year-end Billboard Hot 100 chart for 2025 since it seems that fans have been playing his music more since his passing. 
 
 
 ## See You On the Other Side
+I am glad I could use the skills I have learned in the Data Analytics Accelerator to complete this final capstone project for the bootcamp. It was fun to combine music and data analytics.
 
 If you would like to connect, please reach out to me on <a href="https://www.linkedin.com/in/lexie-langella/">LinkedIn</a>! 
