@@ -66,7 +66,7 @@ I filtered the rows in SQL looking for either artist but sadly neither one was o
 
 <img src="images/Ozzy Filter.png"/>
 I found this hard to believe, so I looked into this further. 
-Using Excel I searched for "Ozzy" anywhere in the table and I found this:
+Using Excel I searched for "Ozzy" anywhere in the table and I found this: <br>
 
 <img src="images/Excel Ozzy.png"/>
 
