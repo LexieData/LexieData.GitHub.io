@@ -3,7 +3,7 @@
 # Topping the Charts: A Billboard Artist Analysis
 
 ## All Aboard!
-Music has been a big part of my life. I have two college degrees in music and my parents work for BMI, a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. I am looking at the top songs on the Billboard Charts throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
+Music has been a big part of my life. I have two college degrees in music and my parents work for a music royalites company. Also, losing the heavy metal icon Ozzy Osbourne last week has inspired me to create a music capstone project for my data analytics studies. I am looking at the top songs on the Billboard Charts throughout the years and I'm hoping to see Ozzy or Black Sabbath in there somewhere! Let's dive deeper.
 
 What I learned from this project was:
   1. The earliest year-end #1 Billboard hit was "The Gypsy" by **The Ink Spots** in 1946 and the latest being "Last Night" by **Morgan Wallen** in 2023.
@@ -54,9 +54,8 @@ The fourth question is, "What genre made the number one spot and how did they ch
 <img src="images/Genre Rank4.png"/>
 
 It is interesting to see how music tastes change throughout the years. For example, the data shows the most popular genre in the 40s was Jazz/Swing and after 1962, that genre is no longer listed. <br>
-I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top. <br>
-<img src="images/Genre Order1.png"/> <br>
-<img src="images/Genre Order2.png"/>
+I counted the genres using the COUNTIF function in Excel and ordered them by most popular at the top. Then I made a bar graph in PowerBI to visualize these results. <br>
+<img src="images/PowerBI Genre.png"/> <br>
 
 The most popular genre was Pop, followed by Rock and Jazz/Swing. Pop was listed 41 times, whether it was by itself or with a group of other genres. The least amount of genres that got number one hits were Disco and Funk. Jazz had one hit but was listed once by itself instead of grouped with Swing.
 
