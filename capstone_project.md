@@ -14,7 +14,7 @@ What I learned from this project was:
 
 ## The Data
 The data from this project comes from the Harvard Dataverse <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRQMKU">website</a>. This website shows the year-end Billboard annual charts for the United States from 1946-2023. This data includes the Billboard Hot 100 which launched in 1959 and the data prior to that has charts between 30 and 50 song ranking. Usually the Billboard Hot 100 shows the WEEKLY ranked songs but this data set shows the YEAR-END ranked songs which is measured by the combination of sales, streaming, and radio play throughout the year. <br>
-This data set contains 7004 rows and 12 columns, where each row represents a song and the columns contain information like rank, genre, artist, and year. I used **Power BI** to create visualizations using this data and **SQL** and **Excel** to analyze the data. 
+This data set contains 7,004 rows and 12 columns, where each row represents a song and the columns contain information like rank, genre, artist, and year. I used **Power BI** to create visualizations using this data and **SQL** and **Excel** to analyze the data. 
 
 ## Analysis
 
