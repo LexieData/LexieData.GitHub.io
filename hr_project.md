@@ -1,4 +1,4 @@
-<img src="images/The HR Project.png"/>
+<img src="images/The HR Projects.png"/>
 
 # Driven to Attrition: Insights for HR
 
