@@ -43,7 +43,7 @@ I used Python code to analyze mining data and created visualizations using Seabo
 
 ---
 #### [The HR Project](hr_project.md)
-[<img src="images/The HR Project.png?raw=true"/>](hr_project.md)
+[<img src="images/The HR Projects.png?raw=true"/>](hr_project.md)
 For this project I used R to answer questions and create a multiple linear model, box and whisker plot, pairplot, and correlation matrix for HR data.
 
 
