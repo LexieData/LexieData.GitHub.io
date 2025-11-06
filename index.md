@@ -23,7 +23,7 @@ What are the top math schools in the state?
 
 ---
 #### [The Bank Project](bank.md)
-[<img src="images/The World Bank Project.png?raw=true"/>](bank.md)
+[<img src="images/The World Bank_Project.png?raw=true"/>](bank.md)
 For this project, I use SQL to analyze data from the International Development Assocation (IDA). 
 
 ---
