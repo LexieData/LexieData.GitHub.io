@@ -1,4 +1,4 @@
-<img src="images/Massachusetts Education Overview.png"/>
+<img src="images/Massachusetts Education_Overview.png"/>
 
 # Class is in Session
 
