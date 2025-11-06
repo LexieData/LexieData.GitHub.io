@@ -10,7 +10,7 @@ This capstone project combines Power BI, SQL, and Excel to analyze music data.
 
 ---
 #### [Healthcare Analysis](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
-[<img src="images/Healthcare Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
+[<img src="images/Healthcare_Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/analyze-healthcare-data-using-sql-stat-lexie-langella-mm-mt-bc-akwxe)
 This data story analyzes data from diabetes patients in the hospital.
 
 ---
