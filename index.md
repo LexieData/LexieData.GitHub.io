@@ -15,7 +15,7 @@ This data story analyzes data from diabetes patients in the hospital.
 
 ---
 #### [Education Project](tableau_project.md)
-[<img src="images/Massachusetts Education Overview.png?raw=true"/>](tableau_project.md)
+[<img src="images/Massachusetts Education_Overview.png?raw=true"/>](tableau_project.md)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
