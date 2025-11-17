@@ -33,7 +33,7 @@ For this project I used Excel to analyze delivery foods trends from a company si
 
 ---
 #### [The Sports Project](sports_project.md)
-[<img src="images/Sports.png?raw=true"/>](sports_project.md)
+[<img src="images/Sports_.png?raw=true"/>](sports_project.md)
 For this project, I analyzed NBA data and created more visualizations in Tableau.
 
 ---
