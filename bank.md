@@ -50,6 +50,6 @@ By using SQL for this snapshot of IDA data, I learned:
   3. By using **GROUP BY** and **ORDER BY** I could see the **136** countries and their transactions.
   4. **India** had the largest loan owed to IDA and the loan was for the Third Elementary Education Project.
 
-This project was a beginner exercise to practice SQL queries. With this data I was also taught aggregations such as MAX, MIN, SUM, AVG, and COUNT. I learned the WHERE BY clause and its AND, OR, NOT operators. I am excited to continue learning SQL with other projects! Please reach out via <a href="www.linkedin.com/in/lexie-langella">LinkedIn</a> if you have any questions or want to connect.
+This project was a beginner exercise to practice SQL queries. With this data I was also taught aggregations such as MAX, MIN, SUM, AVG, and COUNT. I learned the WHERE clause and its AND, OR, NOT operators. I am excited to continue learning SQL with other projects! Please reach out via <a href="www.linkedin.com/in/lexie-langella">LinkedIn</a> if you have any questions or want to connect.
 
 
